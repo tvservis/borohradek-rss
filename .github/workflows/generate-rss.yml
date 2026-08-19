@@ -1,0 +1,36 @@
+name: Generuj RSS feed akcí
+
+on:
+  schedule:
+    # Spustí se každou hodinu (v minutě 15). Uprav podle potřeby.
+    - cron: "15 * * * *"
+  workflow_dispatch: {}  # umožní i ruční spuštění tlačítkem v GitHubu
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastavení Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalace závislostí
+        run: pip install -r requirements.txt
+
+      - name: Spuštění skriptu
+        run: python generate_rss.py
+
+      - name: Commit a push změn (pokud nějaké jsou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/rss.xml
+          git diff --staged --quiet || git commit -m "Aktualizace RSS feedu akcí"
+          git push
