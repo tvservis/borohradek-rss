@@ -37,7 +37,7 @@ OUTPUT_FILE = "docs/rss.xml"
 
 # Veřejná URL, na které bude feed nakonec dostupný (GitHub Pages).
 # Uprav podle svého GitHub účtu a názvu repozitáře.
-FEED_PUBLIC_URL = "https://TVE_GH_JMENO.github.io/borohradek-rss/rss.xml"
+FEED_PUBLIC_URL = "https://tvservis.github.io/borohradek-rss/rss.xml"
 
 HEADERS = {
     "User-Agent": (
