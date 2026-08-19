@@ -50,8 +50,30 @@ HEADERS = {
 
 
 def fetch_html(url: str) -> str:
-    """Stáhne HTML stránky, s ošetřením chyb."""
-    response = requests.get(url, headers=HEADERS, timeout=20)
+    """
+    Stáhne HTML stránky, s ošetřením chyb.
+
+    Web mestoborohradek.cz aktivně blokuje požadavky z cloudových/
+    datacentrových IP adres (typicky ochrana proti botům). Proto
+    používáme requests.Session: nejdřív navštívíme hlavní stránku
+    (získáme případné bezpečnostní cookies), a teprve pak stahujeme
+    cílovou stránku ve stejné session - u řady podobných ochran to
+    pomůže projít.
+
+    Pokud to nepomůže, ochrana je zřejmě založená na blokaci celých
+    IP rozsahů datacenter (ne jen na chybějící cookie) - v tom případě
+    je potřeba skript spouštět odjinud než z cloudového runneru
+    (viz poznámka v NAVOD.md).
+    """
+    session = requests.Session()
+    session.headers.update(HEADERS)
+
+    # Krok 1: "zahřátí" session návštěvou hlavní stránky.
+    warmup = session.get(BASE_URL, timeout=20)
+    warmup.raise_for_status()
+
+    # Krok 2: stažení cílové stránky ve stejné session.
+    response = session.get(url, headers={"Referer": BASE_URL + "/"}, timeout=20)
     response.raise_for_status()
     response.encoding = response.apparent_encoding
     return response.text
