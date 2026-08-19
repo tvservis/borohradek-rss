@@ -17,7 +17,6 @@ parse_events() podle aktuálního HTML (klávesa F12 v prohlížeči na
 stránce s akcemi).
 """
 
-import re
 import sys
 import hashlib
 from datetime import datetime, timezone
@@ -32,7 +31,7 @@ from feedgen.feed import FeedGenerator
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://www.mestoborohradek.cz"
-EVENTS_URL = f"{BASE_URL}/prehled-akci"
+EVENTS_URL = f"{BASE_URL}/zivot-ve-meste/udalosti/"
 OUTPUT_FILE = "docs/rss.xml"
 
 # Veřejná URL, na které bude feed nakonec dostupný (GitHub Pages).
@@ -83,20 +82,35 @@ def parse_events(html: str, page_url: str):
     """
     Najde na stránce jednotlivé akce.
 
-    Předpoklad (podle veřejně dostupných náhledů stránky): každá akce je
-    odkaz vedoucí na URL ve tvaru /prehled-akci/<slug>, a v okolním textu
-    bývá uvedeno "Datum konání: <datum>".
+    Struktura zjištěná přímo z webu (CMS "strankaVypisClankuSFiltr"):
 
-    Pokud tento předpoklad neodpovídá realitě, uprav selektor níže podle
-    skutečného HTML (zjistíš přes F12 -> Elements na stránce s akcemi).
+        <a class="fileBox fileBoxGrouped strankaVypisClankuSFiltr_item"
+           href="/clanky/pozvanka-na-letni-kino/"
+           data-types="novinka udalost">
+          <span class="fileBoxContent strankaVypisClankuSFiltr_content">
+            <span class="strankaVypisClankuSFiltr_title">Název akce</span>
+            <span class="strankaVypisClankuSFiltr_meta">
+              <span class="strankaVypisClankuSFiltr_metaItem">
+                <span class="strankaVypisClankuSFiltr_metaLabel">Publikováno:</span>
+                <strong>12.08.2026</strong>
+              </span>
+              <span class="strankaVypisClankuSFiltr_metaItem">
+                <span class="strankaVypisClankuSFiltr_metaLabel">Termín konání:</span>
+                <strong>31.08.2026 20:00 - 03.09.2026 00:00</strong>
+              </span>
+            </span>
+          </span>
+        </a>
     """
     soup = BeautifulSoup(html, "html.parser")
     events = []
     seen_links = set()
 
-    for link in soup.find_all("a", href=True):
-        href = link["href"]
-        if "/prehled-akci/" not in href:
+    items = soup.find_all("a", class_="strankaVypisClankuSFiltr_item")
+
+    for item in items:
+        href = item.get("href")
+        if not href:
             continue
 
         full_url = urljoin(page_url, href)
@@ -104,17 +118,20 @@ def parse_events(html: str, page_url: str):
             continue
         seen_links.add(full_url)
 
-        title = link.get_text(strip=True)
-        if not title:
-            continue
+        title_el = item.find(class_="strankaVypisClankuSFiltr_title")
+        title = title_el.get_text(strip=True) if title_el else full_url
+        title = title.replace("\xa0", " ")
 
-        # Zkusíme najít datum konání v okolí odkazu (rodičovský blok).
         date_text = None
-        container = link.find_parent(["article", "li", "div"])
-        if container:
-            match = re.search(r"Datum kon[aá]n[ií]\s*:\s*([0-9.\s]+)", container.get_text())
-            if match:
-                date_text = match.group(1).strip()
+        for meta_item in item.find_all(class_="strankaVypisClankuSFiltr_metaItem"):
+            label_el = meta_item.find(class_="strankaVypisClankuSFiltr_metaLabel")
+            if not label_el:
+                continue
+            if "Termín konání" in label_el.get_text():
+                strong_el = meta_item.find("strong")
+                if strong_el:
+                    date_text = strong_el.get_text(strip=True)
+                break
 
         events.append(
             {
