@@ -31,7 +31,7 @@ from feedgen.feed import FeedGenerator
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://www.mestoborohradek.cz"
-EVENTS_URL = f"{BASE_URL}/zivot-ve-meste/udalosti/"
+EVENTS_URL = f"{BASE_URL}/zivot-ve-meste/aktuality-a-hlaseni/aktuality-z-mesta/"
 OUTPUT_FILE = "docs/rss.xml"
 
 # Veřejná URL, na které bude feed nakonec dostupný (GitHub Pages).
