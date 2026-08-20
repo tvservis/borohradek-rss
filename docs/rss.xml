@@ -1,1 +1,1518 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Akce - Město Borohrádek</title>
+    <link>https://tvservis.github.io/borohradek-rss/rss.xml</link>
+    <description>Automaticky generovaný feed akcí z webu mestoborohradek.cz</description>
+    <atom:link href="https://tvservis.github.io/borohradek-rss/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>cs</language>
+    <lastBuildDate>Thu, 20 Aug 2026 04:11:59 +0000</lastBuildDate>
+    <item>
+      <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
+      <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
+      <description>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</description>
+      <guid isPermaLink="false">8d22c19eb1ee8cb6f1e072b528846f27f3af3f8bf283befdebc031c494314458</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oznámení pro občany s adresou trvalého pobytu na ohlašovně – přebírání pošty</title>
+      <link>https://www.mestoborohradek.cz/clanky/oznameni-pro-obcany-s-adresou-trvaleho-pobytu-na-ohlasovne-prebirani-posty/</link>
+      <description>Oznámení pro občany s adresou trvalého pobytu na ohlašovně – přebírání pošty</description>
+      <guid isPermaLink="false">067a1b5bcf6c9ea25c4ea912655de88cf96ed1a91c3b6fd034f46f6a2f2518f2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bezpečnostní desatero HZS ČR</title>
+      <link>https://www.mestoborohradek.cz/clanky/bezpecnostni-desatero-hzs-cr/</link>
+      <description>Bezpečnostní desatero HZS ČR</description>
+      <guid isPermaLink="false">8463a4bc3fd4fe985486778f918bc65ebc89fcf4167ee31e6c6590c5b36d9ad3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změna intervalu odečtů vodoměrů</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmena-intervalu-odectu-vodomeru/</link>
+      <description>Změna intervalu odečtů vodoměrů</description>
+      <guid isPermaLink="false">e812e36a8c1c1ea71da8d88b81dc73c8d7dcc9a635e1ee73629ca5e38f7deb97</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace o dostupnosti zdravotnické dokumentace z ordinace MUDr. Věry Stejskalové</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-o-dostupnosti-zdravotnicke-dokumentace-z-ordinace-mudr-very-stejskalove/</link>
+      <description>Informace o dostupnosti zdravotnické dokumentace z ordinace MUDr. Věry Stejskalové</description>
+      <guid isPermaLink="false">a1d0ef61c16af33e0c58cba9b0b0660705f551804133aa22d852ac50e6a05138</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dodatkové tabule na autobusových zastávkách</title>
+      <link>https://www.mestoborohradek.cz/clanky/dodatkove-tabule-na-autobusovych-zastavkach/</link>
+      <description>Dodatkové tabule na autobusových zastávkách</description>
+      <guid isPermaLink="false">f377167397ca86fa28734bd80f302748fa8feb72808816ca5423150a446fd49d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změny ve vydávání OP</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmeny-ve-vydavani-op/</link>
+      <description>Změny ve vydávání OP</description>
+      <guid isPermaLink="false">bf3fd4d8b1c20671b5d2bb27021d440f8269d6804500f6c33b5965e77c328ff8</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Časový plán plnění opatření města Borohrádek</title>
+      <link>https://www.mestoborohradek.cz/clanky/casovy-plan-plneni-opatreni-mesta-borohradek/</link>
+      <description>Časový plán plnění opatření města Borohrádek</description>
+      <guid isPermaLink="false">34d4d4d59a17934103915099e70ad3982851b3444cb6f0b71789dbc2c32682f1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krajské asistenční centrum pomoci Ukrajině (KACPU) funguje na nové adrese</title>
+      <link>https://www.mestoborohradek.cz/clanky/krajske-asistencni-centrum-pomoci-ukrajine-kacpu-funguje-na-nove-adrese/</link>
+      <description>Krajské asistenční centrum pomoci Ukrajině (KACPU) funguje na nové adrese</description>
+      <guid isPermaLink="false">d1ee67614eda9482229a0fb4da33e6a9098df533c5680ce8d90e9a10ae0a9753</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOS výživné s.r.o. se představuje</title>
+      <link>https://www.mestoborohradek.cz/clanky/sos-vyzivne-s-r-o-se-predstavuje/</link>
+      <description>SOS výživné s.r.o. se představuje</description>
+      <guid isPermaLink="false">7a691afba8f4e90e266fdf5a6851869571a96fddc3daee297f2e5735ccfec28f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozpis cvičení</title>
+      <link>https://www.mestoborohradek.cz/clanky/rozpis-cviceni/</link>
+      <description>Rozpis cvičení</description>
+      <guid isPermaLink="false">2aaa8ed3b9ba4c60f11992af84edfa0a46639574f9ec3c90fd58da83292eceee</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borohrádek má nově zvolené vedení města</title>
+      <link>https://www.mestoborohradek.cz/clanky/borohradek-ma-nove-zvolene-vedeni-mesta/</link>
+      <description>Borohrádek má nově zvolené vedení města</description>
+      <guid isPermaLink="false">746c3f3b2f1854b5e11c1f5e8b240ecafdf4843bee058c28fec0edb0f785e5c2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hledáme hostitele</title>
+      <link>https://www.mestoborohradek.cz/clanky/hledame-hostitele/</link>
+      <description>Hledáme hostitele</description>
+      <guid isPermaLink="false">f6763cb676d30c79207134c6975ff7b4585c504ffad89053c02353da22f79d66</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Komunikační kampaň Královéhradeckého kraje "Je normální si pomáhat</title>
+      <link>https://www.mestoborohradek.cz/clanky/komunikacni-kampan-kralovehradeckeho-kraje-je-normalni-si-pomahat/</link>
+      <description>Komunikační kampaň Královéhradeckého kraje "Je normální si pomáhat</description>
+      <guid isPermaLink="false">5d3588e9b9ec6588bb188a3d85bc1b8dab890fc382e15b6f1dc4737a74eac802</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Komunikační kampaň Královéhradeckého kraje pokračuje</title>
+      <link>https://www.mestoborohradek.cz/clanky/komunikacni-kampan-kralovehradeckeho-kraje-pokracuje/</link>
+      <description>Komunikační kampaň Královéhradeckého kraje pokračuje</description>
+      <guid isPermaLink="false">4fc88b6c1596365a65d0394e92798d67c866e360cf8fb590d02656fc8bc60f2a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace Českého telekomunikačního úřadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-ceskeho-telekomunikacniho-uradu/</link>
+      <description>Informace Českého telekomunikačního úřadu</description>
+      <guid isPermaLink="false">4981caa90793f50eac86f3b3a331f5d612d8f44e6aa5cf1ee391112e34d3169e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změna poplatků v městské knihovně</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmena-poplatku-v-mestske-knihovne/</link>
+      <description>Změna poplatků v městské knihovně</description>
+      <guid isPermaLink="false">2c3510ae0ebada1a78b3ba1db805164b7b9ae44005fe726311c09ca441c4fb53</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Regulace smluv se spotovými cenami</title>
+      <link>https://www.mestoborohradek.cz/clanky/regulace-smluv-se-spotovymi-cenami/</link>
+      <description>Regulace smluv se spotovými cenami</description>
+      <guid isPermaLink="false">bcd9cf3709ca53f1e6f3c4d1973a64cdb0d3e48a96c3525fff8453b2f7504457</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volba prezidenta republiky - výsledky druhého kola</title>
+      <link>https://www.mestoborohradek.cz/clanky/volba-prezidenta-republiky-vysledky-druheho-kola/</link>
+      <description>Volba prezidenta republiky - výsledky druhého kola</description>
+      <guid isPermaLink="false">4ae37635a5eb0244e51f5ef8411e4d63c44781d76bbb32a6319db44624709ead</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Úprava jízdního řádu linky 700943 Choceň-Skořenice-Bošín-Kostelecké Horky-Borohrádek</title>
+      <link>https://www.mestoborohradek.cz/clanky/uprava-jizdniho-radu-linky-700943-chocen-skorenice-bosin-kostelecke-horky-borohradek/</link>
+      <description>Úprava jízdního řádu linky 700943 Choceň-Skořenice-Bošín-Kostelecké Horky-Borohrádek</description>
+      <guid isPermaLink="false">77145478259818cc56a02f310d1f1b75579b249c2d8e474a07e376c36da0457f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace o připravované rekonstrukci ulic Nerudova a Švermova</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-o-pripravovane-rekonstrukci-ulic-nerudova-a-Švermova/</link>
+      <description>Informace o připravované rekonstrukci ulic Nerudova a Švermova</description>
+      <guid isPermaLink="false">2401793172f4516eb046b6c959f84e06f89e3a75ca283274ec6564eade017ac0</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oprava silnice I/36 v Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/oprava-silnice-i-36-v-borohradku/</link>
+      <description>Oprava silnice I/36 v Borohrádku</description>
+      <guid isPermaLink="false">7370dd436896c7c9d93bc2d248f463e8b55d682ee4b0500b439735a521f86662</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>II. etapa uzavírky silnice I/36</title>
+      <link>https://www.mestoborohradek.cz/clanky/ii-etapa-uzavirky-silnice-i-36/</link>
+      <description>II. etapa uzavírky silnice I/36</description>
+      <guid isPermaLink="false">6468b14f1551d4523e9b74dfcad482ce9a5f1b9fbcaac1a753df28534c995af0</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AQUA SERVIS, a.s. Rychnov nad Kněžnou nabízí napouštění bazénů z cisterny</title>
+      <link>https://www.mestoborohradek.cz/clanky/aqua-servis-a-s-rychnov-nad-kneznou-nabizi-napousteni-bazenu-z-cisterny/</link>
+      <description>AQUA SERVIS, a.s. Rychnov nad Kněžnou nabízí napouštění bazénů z cisterny</description>
+      <guid isPermaLink="false">72e8b33ed4c1173a3de9474d3e63be5e6b2f4e18f01b25b37b833eccddef239f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>V Borohrádku je sdílený bankomat MONETA Money Bank</title>
+      <link>https://www.mestoborohradek.cz/clanky/v-borohradku-je-sdileny-bankomat-moneta-money-bank/</link>
+      <description>V Borohrádku je sdílený bankomat MONETA Money Bank</description>
+      <guid isPermaLink="false">a9b10c124366f3ecc14715ae4ccdc8b65c01fae1b3ed7b56e6365a686d24bfa2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milostivé léto 2023</title>
+      <link>https://www.mestoborohradek.cz/clanky/milostive-leto-2023/</link>
+      <description>Milostivé léto 2023</description>
+      <guid isPermaLink="false">6b2867ecbd22159f552f17a5f9a7b54c8de41b29d34048aaf9432522dd23e84f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akce Muzea a galerie Orlických hor</title>
+      <link>https://www.mestoborohradek.cz/clanky/akce-muzea-a-galerie-orlickych-hor/</link>
+      <description>Akce Muzea a galerie Orlických hor</description>
+      <guid isPermaLink="false">cef089d48dca141ea08bbf35b16b3a8907d19541459d3c6078e17ff257d49bd9</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní akce v Rychnově nad Kněžnou</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-akce-v-rychnove-nad-kneznou/</link>
+      <description>Kulturní akce v Rychnově nad Kněžnou</description>
+      <guid isPermaLink="false">929abbaeac1e300775c07921fffe63a3c4f0ea7feb20932588b75b8eff557675</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benefiční koncert talentů Konzervatoře Pardubice</title>
+      <link>https://www.mestoborohradek.cz/clanky/beneficni-koncert-talentu-konzervatore-pardubice/</link>
+      <description>Benefiční koncert talentů Konzervatoře Pardubice</description>
+      <guid isPermaLink="false">78b67cfdd424f6744d7926a9e4de5dfd3e02114686b1e06ed5cc855d80f45ed4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sportovní odpoledne v Holicích</title>
+      <link>https://www.mestoborohradek.cz/clanky/sportovni-odpoledne-v-holicich/</link>
+      <description>Sportovní odpoledne v Holicích</description>
+      <guid isPermaLink="false">30d5d1b1da765844cbe7fb3e001116f9f562b4bbf32bc9e7569be4d519f69779</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pochod 2023 - Poznejme naše sousedy</title>
+      <link>https://www.mestoborohradek.cz/clanky/pochod-2023-poznejme-nase-sousedy/</link>
+      <description>Pochod 2023 - Poznejme naše sousedy</description>
+      <guid isPermaLink="false">6bfeb16799f4fbc2400fbd0f2fba4e620b481c918b29c305b02b7d0c6fd59bcf</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sbírka textilu a dalšího materiálu</title>
+      <link>https://www.mestoborohradek.cz/clanky/sbirka-textilu-a-dalsiho-materialu/</link>
+      <description>Sbírka textilu a dalšího materiálu</description>
+      <guid isPermaLink="false">ae2501aa8e42836068e591d5757e238211685b8e826cb7f6705f1bcc878d6d14</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření silnice I/36 v místě železničního nadjezdu v Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-silnice-i-36-v-miste-zeleznicniho-nadjezdu-v-borohradku/</link>
+      <description>Uzavření silnice I/36 v místě železničního nadjezdu v Borohrádku</description>
+      <guid isPermaLink="false">a5d0597768863468efadad09398624666287e3a7c0a4ca7aacb575a20f0f9ad5</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mezinárodní den elektroodpadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/mezinarodni-den-elektroodpadu/</link>
+      <description>Mezinárodní den elektroodpadu</description>
+      <guid isPermaLink="false">57aae251293f81c32f94c5142f2e2912786f7232cebd4f559c885b767744cf35</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promítání pro děti - Mavka: Strážkyně lesa</title>
+      <link>https://www.mestoborohradek.cz/clanky/promitani-pro-deti-mavka-strazkyne-lesa/</link>
+      <description>Promítání pro děti - Mavka: Strážkyně lesa</description>
+      <guid isPermaLink="false">77a96dfed1c55ee1cbbb4b0119e9ca782619bd9b1ffe5da4da06f013189db7ca</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borohrádecké posvícení</title>
+      <link>https://www.mestoborohradek.cz/clanky/borohradecke-posviceni/</link>
+      <description>Borohrádecké posvícení</description>
+      <guid isPermaLink="false">c6a09354f496b9adfa3aa76eced03d0b4cf7dafd4cfce329bcff362fe78a5b73</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Šachovská drakiáda</title>
+      <link>https://www.mestoborohradek.cz/clanky/Šachovska-drakiada/</link>
+      <description>Šachovská drakiáda</description>
+      <guid isPermaLink="false">bb8be1f896f1e47f9ccf091f2b6827fbb1294d11d2afbc646bd082b7afc3ce74</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příjem žádostí o dotaci z rozpočtu města na rok 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/prijem-zadosti-o-dotaci-z-rozpoctu-mesta-na-rok-2024/</link>
+      <description>Příjem žádostí o dotaci z rozpočtu města na rok 2024</description>
+      <guid isPermaLink="false">8d0cba8f8828265bd3917aa2367d0d0f8af72021d434f122665b09b04fe285c6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cirkusová představení - CIRKUS BUDE</title>
+      <link>https://www.mestoborohradek.cz/clanky/cirkusova-predstaveni-cirkus-bude/</link>
+      <description>Cirkusová představení - CIRKUS BUDE</description>
+      <guid isPermaLink="false">32637d16714991cb47a36d7d711c9079843c9a29db6314f51baed843b0ee81fc</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Porucha osvětlení</title>
+      <link>https://www.mestoborohradek.cz/clanky/porucha-osvetleni/</link>
+      <description>Porucha osvětlení</description>
+      <guid isPermaLink="false">58e83246e70f10d13a9257523e1badf59d7f5dd2290e71e594c6469cc699a9b6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vánoční koncert v kostele sv. Michaela archanděla v Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/vanocni-koncert-v-kostele-sv-michaela-archandela-v-borohradku/</link>
+      <description>Vánoční koncert v kostele sv. Michaela archanděla v Borohrádku</description>
+      <guid isPermaLink="false">613572c001d9028e2156c2f1a4b21a6d9475194e17cdd5004d5f541741b535c4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventní koncert v kostele Nejsvětější Trojice v Šachově</title>
+      <link>https://www.mestoborohradek.cz/clanky/adventni-koncert-v-kostele-nejsvetejsi-trojice-v-Šachove/</link>
+      <description>Adventní koncert v kostele Nejsvětější Trojice v Šachově</description>
+      <guid isPermaLink="false">73bd7efb6928ad31f22a036f0cd657868f316fb019a59c0fdb5807b78580f812</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provoz městského úřadu na konci letošního roku</title>
+      <link>https://www.mestoborohradek.cz/clanky/provoz-mestskeho-uradu-na-konci-letosniho-roku/</link>
+      <description>Provoz městského úřadu na konci letošního roku</description>
+      <guid isPermaLink="false">675c5eb3115234a7f8ba5fe0306cbb949f03674e7a07841002a9e7f4cb4f24ca</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omezení provozu sběrného místa (dvora)</title>
+      <link>https://www.mestoborohradek.cz/clanky/omezeni-provozu-sberneho-mista-dvora/</link>
+      <description>Omezení provozu sběrného místa (dvora)</description>
+      <guid isPermaLink="false">27cc6ad38a6ab010bc3a47aa033277b0feb5b0016bda1664d5fdd8fb779e04cf</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nové jízdní řády autobusů a vlaků</title>
+      <link>https://www.mestoborohradek.cz/clanky/nove-jizdni-rady-autobusu-a-vlaku/</link>
+      <description>Nové jízdní řády autobusů a vlaků</description>
+      <guid isPermaLink="false">004f41782b8134d20cfef03dd4723f9914c89896f7b53100b1d32cdc57f13024</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vyhlášen stav ohrožení na Tiché Orlici</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyhlasen-stav-ohrozeni-na-tiche-orlici/</link>
+      <description>Vyhlášen stav ohrožení na Tiché Orlici</description>
+      <guid isPermaLink="false">471195d62eb802447cdae30572e3af7dd2cfe0d1ef97289912eff9cac8b419e2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silvestrovský ohňostroj</title>
+      <link>https://www.mestoborohradek.cz/clanky/silvestrovsky-ohnostroj/</link>
+      <description>Silvestrovský ohňostroj</description>
+      <guid isPermaLink="false">78f2a8b8af523435ef4f6cb7e4ab9e43dd184591060b382536ef46693fc7db55</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silvestrovský lampionový pochod 2023</title>
+      <link>https://www.mestoborohradek.cz/clanky/silvestrovsky-lampionovy-pochod-2023/</link>
+      <description>Silvestrovský lampionový pochod 2023</description>
+      <guid isPermaLink="false">2890d7761cd8d9be4998214a2cda5049e87ff8fc7663ac4617c2d250f8e5adfe</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tříkrálová sbírka</title>
+      <link>https://www.mestoborohradek.cz/clanky/trikralova-sbirka/</link>
+      <description>Tříkrálová sbírka</description>
+      <guid isPermaLink="false">2e5843ad92e6f1658a521408f379290e8a1a4f2f307cfa8b32c8701ed050a144</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oboroh slaví 35 let</title>
+      <link>https://www.mestoborohradek.cz/clanky/oboroh-slavi-35-let/</link>
+      <description>Oboroh slaví 35 let</description>
+      <guid isPermaLink="false">3e523208a1ab61a4150fe448c3af9483ff7362566cf48c074a9d0c9fbe9abced</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření silnice II/317</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-silnice-ii-317/</link>
+      <description>Uzavření silnice II/317</description>
+      <guid isPermaLink="false">72586ecdb32f4620a1930bdec21c8af3b9879e791c937f917dcb638288fb8cbb</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Letní příměstské tábory - Lesní klub Kamínek</title>
+      <link>https://www.mestoborohradek.cz/clanky/letni-primestske-tabory-lesni-klub-kaminek/</link>
+      <description>Letní příměstské tábory - Lesní klub Kamínek</description>
+      <guid isPermaLink="false">cec0d16d3d5367b2ed59f3d83727154dad35f29e63d74f1b5eaa69209931fa3b</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka v úseku Čermná nad Orlicí - Choceň na trati 026 Choceň - Náchod</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-v-useku-cermna-nad-orlici-chocen-na-trati-026-chocen-nachod/</link>
+      <description>Výluka v úseku Čermná nad Orlicí - Choceň na trati 026 Choceň - Náchod</description>
+      <guid isPermaLink="false">54cfbc97746495b3e5a3754c2f3efb196bcebcb459b8c9421a0f2ef72503ff28</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka v úseku Týniště nad Orlicí - Choceň na trati 026 Choceň - Náchod</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-v-useku-tyniste-nad-orlici-chocen-na-trati-026-chocen-nachod/</link>
+      <description>Výluka v úseku Týniště nad Orlicí - Choceň na trati 026 Choceň - Náchod</description>
+      <guid isPermaLink="false">f4603a3a991358af16b36f3e25d396cbb92962c1f3e22949be2820f776ee0140</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace Finančního úřadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-financniho-uradu/</link>
+      <description>Informace Finančního úřadu</description>
+      <guid isPermaLink="false">96cc740bffff73a3f9304190eb7abbf7ee430886029f1e6e1db5473f7d38337a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sbírka pro Diakonii Broumov</title>
+      <link>https://www.mestoborohradek.cz/clanky/sbirka-pro-diakonii-broumov/</link>
+      <description>Sbírka pro Diakonii Broumov</description>
+      <guid isPermaLink="false">42a53f69682f97fd2dc8756f8e9d53af681ee3ab3e64595033ef542e73cff1a6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>T-Mobile Olympijský běh 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/t-mobile-olympijsky-beh-2024/</link>
+      <description>T-Mobile Olympijský běh 2024</description>
+      <guid isPermaLink="false">b6abc532f6d1a1e8b367ee934afef2f8e5bf8f464c50a7e72dac6a5d2c599807</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ohnisko HPAI v nekomerčním malochovu drůbeže Bolehošť</title>
+      <link>https://www.mestoborohradek.cz/clanky/ohnisko-hpai-v-nekomercnim-malochovu-drubeze-bolehost/</link>
+      <description>Ohnisko HPAI v nekomerčním malochovu drůbeže Bolehošť</description>
+      <guid isPermaLink="false">9e4cdc66161209d825ed73984855ba3ba8047cdbfa774e34eba870c38f035f8f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za čistší město a okolí Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/za-cistsi-mesto-a-okoli-borohradku/</link>
+      <description>Za čistší město a okolí Borohrádku</description>
+      <guid isPermaLink="false">8b54fd866e76fcc7ad261f0406a574260c00c0a63168c641e01983ae9d862c0f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozvánka na koncert na zámku v Chroustovicích</title>
+      <link>https://www.mestoborohradek.cz/clanky/pozvanka-na-koncert-na-zamku-v-chroustovicich/</link>
+      <description>Pozvánka na koncert na zámku v Chroustovicích</description>
+      <guid isPermaLink="false">ca66f5d3e166f6590ed30025f0a9449cdfc3789c29c09d360d9561d31430546f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Osvědčení pro sběrné místo komunálního odpadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/osvedceni-pro-sberne-misto-komunalniho-odpadu/</link>
+      <description>Osvědčení pro sběrné místo komunálního odpadu</description>
+      <guid isPermaLink="false">05b0be3abf227555d90434df64aea2982324345c8e725e31496742f9fd4059f6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Environmentální vyúčtování za rok 2023</title>
+      <link>https://www.mestoborohradek.cz/clanky/environmentalni-vyuctovani-za-rok-2023/</link>
+      <description>Environmentální vyúčtování za rok 2023</description>
+      <guid isPermaLink="false">40ec2b3736432751234d59ec50ce30a6640343fb689133036e7df9655afad477</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Divadelní představení Haló</title>
+      <link>https://www.mestoborohradek.cz/clanky/divadelni-predstaveni-halo/</link>
+      <description>Divadelní představení Haló</description>
+      <guid isPermaLink="false">e78694e6a5349c458f142e68f53c1eea08a952b6d2b5f582d7a4d4facfa4d6b6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Certifikát Enviromentálního vyúčtování za rok 2023</title>
+      <link>https://www.mestoborohradek.cz/clanky/certifikat-enviromentalniho-vyuctovani-za-rok-2023/</link>
+      <description>Certifikát Enviromentálního vyúčtování za rok 2023</description>
+      <guid isPermaLink="false">8551242ed752cc33dd81307d9e3174043f1fa5c5f1b93b388bfe68cedd80e175</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prodej vysokozdvižného vozíku Desta DVHM 2522 N</title>
+      <link>https://www.mestoborohradek.cz/clanky/prodej-vysokozdvizneho-voziku-desta-dvhm-2522-n/</link>
+      <description>Prodej vysokozdvižného vozíku Desta DVHM 2522 N</description>
+      <guid isPermaLink="false">980914c24272ed3f05152ce79de5157fbc5ddbf3c41546ca95adb803ab70f814</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kotlíkové dotace - dotační program pro nízkopříjmové domácnosti</title>
+      <link>https://www.mestoborohradek.cz/clanky/kotlikove-dotace-dotacni-program-pro-nizkoprijmove-domacnosti/</link>
+      <description>Kotlíkové dotace - dotační program pro nízkopříjmové domácnosti</description>
+      <guid isPermaLink="false">e35ea813dbe53fb14129933799ede9b6aec1ad3bf8cf817b84b731c618259d62</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Módní přehlídka</title>
+      <link>https://www.mestoborohradek.cz/clanky/modni-prehlidka/</link>
+      <description>Módní přehlídka</description>
+      <guid isPermaLink="false">8aed0125258081456d7e163e80e5b1dd2d07569396fa2bf2a31bb799cbbb9b78</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Podpořte naše mažoretky</title>
+      <link>https://www.mestoborohradek.cz/clanky/podporte-nase-mazoretky/</link>
+      <description>Podpořte naše mažoretky</description>
+      <guid isPermaLink="false">2223a380924535bc347ef464158215c9346a958fa00068c12189d9ad24fdae3a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nedělní promítání pro děti</title>
+      <link>https://www.mestoborohradek.cz/clanky/nedelni-promitani-pro-deti/</link>
+      <description>Nedělní promítání pro děti</description>
+      <guid isPermaLink="false">709f678d8640200818d36d854dd9605469241dfe5c264589e705f3fb60784e2c</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vyjádření společnosti AQUA SERVIS, a.s. k dodávce pitné vody</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyjadreni-spolecnosti-aqua-servis-a-s-k-dodavce-pitne-vody/</link>
+      <description>Vyjádření společnosti AQUA SERVIS, a.s. k dodávce pitné vody</description>
+      <guid isPermaLink="false">d9d22b3b9549b1202444ee71ead275172dc052537ded0165ecdb4722f91c1f20</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koncert skupiny Progres</title>
+      <link>https://www.mestoborohradek.cz/clanky/koncert-skupiny-progres/</link>
+      <description>Koncert skupiny Progres</description>
+      <guid isPermaLink="false">3d0657365936afc717af4ef84d80c193bbeeba8a4ac76c1ccc30ac62e6206a52</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozvánka na bezplatný minikurz "DIA POD KONTROLOU"</title>
+      <link>https://www.mestoborohradek.cz/clanky/pozvanka-na-bezplatny-minikurz-dia-pod-kontrolou/</link>
+      <description>Pozvánka na bezplatný minikurz "DIA POD KONTROLOU"</description>
+      <guid isPermaLink="false">a72a483ee8fc9a8d38c236dd31e6969a347f3d31f3686c09dbe9696deb8bf1cc</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rohlík</title>
+      <link>https://www.mestoborohradek.cz/clanky/rohlik/</link>
+      <description>Rohlík</description>
+      <guid isPermaLink="false">49fbbbd05aab4796f9f5fa4ab7349f512b6f02ce29095c510c595f6dac015df6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delegování členů OVK</title>
+      <link>https://www.mestoborohradek.cz/clanky/delegovani-clenu-ovk/</link>
+      <description>Delegování členů OVK</description>
+      <guid isPermaLink="false">f34a8907cf274d1fc8a4255d8335a612c3c2d9451456bda8a87e0b445832db43</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provoz sběrného místa komunálního odpadu v květnu 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/provoz-sberneho-mista-komunalniho-odpadu-v-kvetnu-2024/</link>
+      <description>Provoz sběrného místa komunálního odpadu v květnu 2024</description>
+      <guid isPermaLink="false">0c587ed20c17823a97e20f29680a712ba0b15a94e9ea0c907a1840b58d7a3bb5</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kotlíkové dotace</title>
+      <link>https://www.mestoborohradek.cz/clanky/kotlikove-dotace/</link>
+      <description>Kotlíkové dotace</description>
+      <guid isPermaLink="false">e6183585b79f4c8e11f3f298ef0ef4d93f102d0e9e1b9e5519f2bedcac2b0175</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dětský den a májové odpoledne 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/detsky-den-a-majove-odpoledne-2024/</link>
+      <description>Dětský den a májové odpoledne 2024</description>
+      <guid isPermaLink="false">15e14869dad86205eb9ebf40b00852386deaf2c0e5c4fa5bc5c10d851d5cdcfa</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace pro poplatníky daně z nemovitých věcí</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-pro-poplatniky-dane-z-nemovitych-veci/</link>
+      <description>Informace pro poplatníky daně z nemovitých věcí</description>
+      <guid isPermaLink="false">83ba6423f1fe7724b449adbdd3a53ecf03da12a043fd501112a83fa7cda987e7</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rybářské závody na Orbanské zátoce</title>
+      <link>https://www.mestoborohradek.cz/clanky/rybarske-zavody-na-orbanske-zatoce/</link>
+      <description>Rybářské závody na Orbanské zátoce</description>
+      <guid isPermaLink="false">9e807cc58c0f63f30e9b569aedf7b7605c0fb3786fd032d203102ac7f50965a8</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mírový běh</title>
+      <link>https://www.mestoborohradek.cz/clanky/mirovy-beh/</link>
+      <description>Mírový běh</description>
+      <guid isPermaLink="false">c64e3b7b8242846d749db4d21c530342a4baac9e8b514403dc7146f6acc227e8</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Přerušení dodávky pitné vody na Šachově</title>
+      <link>https://www.mestoborohradek.cz/clanky/preruseni-dodavky-pitne-vody-na-Šachove/</link>
+      <description>Přerušení dodávky pitné vody na Šachově</description>
+      <guid isPermaLink="false">f29920850491f66c39e020d31742a486646ac78319d356860d5c402b1e09ac19</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Šachový turnaj pro širokou veřejnost</title>
+      <link>https://www.mestoborohradek.cz/clanky/Šachovy-turnaj-pro-sirokou-verejnost/</link>
+      <description>Šachový turnaj pro širokou veřejnost</description>
+      <guid isPermaLink="false">87e6775b2700b99452eccfc67bd734a84302d47738b5188a68adc7fc8fcbddbe</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Festival Královéhradeckého kraje</title>
+      <link>https://www.mestoborohradek.cz/clanky/festival-kralovehradeckeho-kraje/</link>
+      <description>Festival Královéhradeckého kraje</description>
+      <guid isPermaLink="false">18ed2e628aaa99cfd6d7444983f50421fb99ba4addefa94c88287cc4512b0f79</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výsledky voleb do EP</title>
+      <link>https://www.mestoborohradek.cz/clanky/vysledky-voleb-do-ep/</link>
+      <description>Výsledky voleb do EP</description>
+      <guid isPermaLink="false">8bb571bf4dca3e71bfe7915481448bce89355a0bd99ecd92a1725bda41f3fe60</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebezpečí napadení volně se pohybujícím skotem již nehrozí</title>
+      <link>https://www.mestoborohradek.cz/clanky/nebezpeci-napadeni-volne-se-pohybujicim-skotem-jiz-nehrozi/</link>
+      <description>Nebezpečí napadení volně se pohybujícím skotem již nehrozí</description>
+      <guid isPermaLink="false">2baa8b89e63b8f9e04da5e97c482ccecd4054c769d4849941a07622eebbc5c05</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veřejné projednání návrhu Regulačního plánu Borohrádek sever – Pod Pilou</title>
+      <link>https://www.mestoborohradek.cz/clanky/verejne-projednani-navrhu-regulacniho-planu-borohradek-sever-pod-pilou/</link>
+      <description>Veřejné projednání návrhu Regulačního plánu Borohrádek sever – Pod Pilou</description>
+      <guid isPermaLink="false">af4060dcd9e517c174a45b3009b14f960285d1d5400a6c664005bd088e6b3532</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seminář pro žadatele o kotlíkové dotace</title>
+      <link>https://www.mestoborohradek.cz/clanky/seminar-pro-zadatele-o-kotlikove-dotace/</link>
+      <description>Seminář pro žadatele o kotlíkové dotace</description>
+      <guid isPermaLink="false">3976d4ef9560d74fbd88d53377cab3e88c2c28e54b99a76a1eab33e5674b7b2e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření sběrného místa pro odkládání komunálního odpadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-sberneho-mista-pro-odkladani-komunalniho-odpadu/</link>
+      <description>Uzavření sběrného místa pro odkládání komunálního odpadu</description>
+      <guid isPermaLink="false">ae4d27a3a3778b0b1b71e9e913f470026fe5f89ed888f4ef684f92867bd39ed1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milostivé léto 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/milostive-leto-2024/</link>
+      <description>Milostivé léto 2024</description>
+      <guid isPermaLink="false">455b08738314db2c5f53f0f1970ca6697fa96e5192388776a308421eb170cc49</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Připomínky k návrhu jízdních řádů pro rok 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/pripominky-k-navrhu-jizdnich-radu-pro-rok-2025/</link>
+      <description>Připomínky k návrhu jízdních řádů pro rok 2025</description>
+      <guid isPermaLink="false">c706a2ac55038561588d43f82b98c8fe68df693ab420c472127a10cd5acb4e99</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výletní vlak z Pardubic do Borohrádku a zpět jede tuto sobotu</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyletni-vlak-z-pardubic-do-borohradku-a-zpet-jede-tuto-sobotu/</link>
+      <description>Výletní vlak z Pardubic do Borohrádku a zpět jede tuto sobotu</description>
+      <guid isPermaLink="false">b49325d08dfc11f90742e0b666de06b9abda9cd680a24f2f7f801dbab6c1ae18</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nehledáte mě?</title>
+      <link>https://www.mestoborohradek.cz/clanky/nehledate-me/</link>
+      <description>Nehledáte mě?</description>
+      <guid isPermaLink="false">d5b79414c0f43a65c550d49649a21ec93a64ca80d196324ae0ea85a1f1166817</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volby do zastupitelstev krajů - informace</title>
+      <link>https://www.mestoborohradek.cz/clanky/volby-do-zastupitelstev-kraju-informace/</link>
+      <description>Volby do zastupitelstev krajů - informace</description>
+      <guid isPermaLink="false">0fd5a13ec3e58c1a75dc70cd9d789caab26dad779ffd81cf9332e8720a756d4a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>15. ročník festivalu pohodové muziky - BOROHRÁTKY 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/15-rocnik-festivalu-pohodove-muziky-borohratky-2024/</link>
+      <description>15. ročník festivalu pohodové muziky - BOROHRÁTKY 2024</description>
+      <guid isPermaLink="false">ac9f59c73e6b985db7971f7f788f4386529b545a51928dc61eda3da75af447cb</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavírka silnice III/3172 - Borohrádek - Čermná nad Orlicí, Malá Čermná nad Orlicí</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavirka-silnice-iii-3172-borohradek-cermna-nad-orlici-mala-cermna-nad-orlici/</link>
+      <description>Uzavírka silnice III/3172 - Borohrádek - Čermná nad Orlicí, Malá Čermná nad Orlicí</description>
+      <guid isPermaLink="false">6450f4c61c708dee42160f7eaae0d9ed1e099b0d32168c87b97e0310629c80b9</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promítání pod hvězdami</title>
+      <link>https://www.mestoborohradek.cz/clanky/promitani-pod-hvezdami-2/</link>
+      <description>Promítání pod hvězdami</description>
+      <guid isPermaLink="false">4f5169092f1b9526ab1ef2360c0536450076acc4f55bb986b469f896971ea3b4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace pro občany</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-pro-obcany/</link>
+      <description>Informace pro občany</description>
+      <guid isPermaLink="false">a954853751ca0742e56ab34003f53e1ed7dee8daf6fe0ad01b99f46e3a779dc9</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vyhlášení II. stupně povodňové aktivity - stavu pohotovosti</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyhlaseni-ii-stupne-povodnove-aktivity-stavu-pohotovosti/</link>
+      <description>Vyhlášení II. stupně povodňové aktivity - stavu pohotovosti</description>
+      <guid isPermaLink="false">b4e378a75c144cd4b48da5e8e2087e47408ff37742ad6fa2f0e47fb135c35581</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vyhlášení III. stupně povodňové aktivity - stavu ohrožení</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyhlaseni-iii-stupne-povodnove-aktivity-stavu-ohrozeni/</link>
+      <description>Vyhlášení III. stupně povodňové aktivity - stavu ohrožení</description>
+      <guid isPermaLink="false">ffc3f7efd0dc11b86403671df7020f600339bdb27e5cf5ae9e9b796291bb4dcb</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dočasná změna otevírací doby na pobočce České pošty v Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/docasna-zmena-oteviraci-doby-na-pobocce-ceske-posty-v-borohradku/</link>
+      <description>Dočasná změna otevírací doby na pobočce České pošty v Borohrádku</description>
+      <guid isPermaLink="false">07cea4c602fd991609d8a569cac0ef9c69bc392fe6dd156c52afe54c45ccc867</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odvolání III. stupně povodňové aktivity</title>
+      <link>https://www.mestoborohradek.cz/clanky/odvolani-iii-stupne-povodnove-aktivity/</link>
+      <description>Odvolání III. stupně povodňové aktivity</description>
+      <guid isPermaLink="false">1400408fc004202391dbcaf82c9ac61e9088ce23bb284541ebf86846dabc7720</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odvolání II. stupně povodňové aktivity</title>
+      <link>https://www.mestoborohradek.cz/clanky/odvolani-ii-stupne-povodnove-aktivity/</link>
+      <description>Odvolání II. stupně povodňové aktivity</description>
+      <guid isPermaLink="false">2125becd5fc70c7102990327f3176dbc518c9bb0553d789c94f5adbb5a3f1c20</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Humanitární sbírka na pomoc obětem povodní</title>
+      <link>https://www.mestoborohradek.cz/clanky/humanitarni-sbirka-na-pomoc-obetem-povodni/</link>
+      <description>Humanitární sbírka na pomoc obětem povodní</description>
+      <guid isPermaLink="false">af182da8bb5da1dd5910779f9fb5e48126df61b32461171fee965c2de4ac8c98</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka na trati 026 v úseku Týniště nad Orlicí - Choceň</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-na-trati-026-v-useku-tyniste-nad-orlici-chocen/</link>
+      <description>Výluka na trati 026 v úseku Týniště nad Orlicí - Choceň</description>
+      <guid isPermaLink="false">9593c24ce08cd0e87c24267cd6b3374b36636ff359ba20ba180918ea2abf68fd</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nová poradna v Komunitním centru v Kostelci nad Orlicí</title>
+      <link>https://www.mestoborohradek.cz/clanky/nova-poradna-v-komunitnim-centru-v-kostelci-nad-orlici/</link>
+      <description>Nová poradna v Komunitním centru v Kostelci nad Orlicí</description>
+      <guid isPermaLink="false">d497418772a19fa0d10926260130223502956363916fcf726f514070de4a8726</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka na trati 021 v úseku Hradec Králové hlavní nádraží - Týniště nad Orlicí</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-na-trati-021-v-useku-hradec-kralove-hlavni-nadrazi-tyniste-nad-orlici/</link>
+      <description>Výluka na trati 021 v úseku Hradec Králové hlavní nádraží - Týniště nad Orlicí</description>
+      <guid isPermaLink="false">1d1f875c0b8f7401f6b89c27625858a353006d42c9de259ca1a3914ab47a6347</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co kam patří aneb jak třídit odpad</title>
+      <link>https://www.mestoborohradek.cz/clanky/co-kam-patri-aneb-jak-tridit-odpad/</link>
+      <description>Co kam patří aneb jak třídit odpad</description>
+      <guid isPermaLink="false">815499e7dbab69a9ecf8b7632371d6aa82f4ed129cada57372c5b2640e701b98</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pochod 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/pochod-2024/</link>
+      <description>Pochod 2024</description>
+      <guid isPermaLink="false">a898882f6881971cc5d90faf29419b4e4139bcaf61f75813ed652b2865186235</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Na Šachov se jezdí oklikou</title>
+      <link>https://www.mestoborohradek.cz/clanky/na-Šachov-se-jezdi-oklikou/</link>
+      <description>Na Šachov se jezdí oklikou</description>
+      <guid isPermaLink="false">444ad9e0e88b5fb6a9920b4490d33e9a163688eabd1bc28bd0215289708a0119</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření úřadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-uradu/</link>
+      <description>Uzavření úřadu</description>
+      <guid isPermaLink="false">10cae4d30cf070d5d33f902511c2a9bdc922e9cb3f2be43055fab06574633d03</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promítání pro děti - 8. listopadu 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/promitani-pro-deti-8-listopadu-2024/</link>
+      <description>Promítání pro děti - 8. listopadu 2024</description>
+      <guid isPermaLink="false">715e89a3eaabaadb2fbf13fc77411b1bd01658fedd57bf12112846969e2ba58e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výstava železničních modelů a kolejišť s mezinárodní účastí</title>
+      <link>https://www.mestoborohradek.cz/clanky/vystava-zeleznicnich-modelu-a-kolejist-s-mezinarodni-ucasti/</link>
+      <description>Výstava železničních modelů a kolejišť s mezinárodní účastí</description>
+      <guid isPermaLink="false">943c8a9bcb321802ee04666303864b0642f358314686d2217ac70bb51e0738e0</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prodejní výstava keramiky</title>
+      <link>https://www.mestoborohradek.cz/clanky/prodejni-vystava-keramiky/</link>
+      <description>Prodejní výstava keramiky</description>
+      <guid isPermaLink="false">9720470779354fda694c1ccdf3e56f6e2f3aa4ada4bcb39c2df33706a2b76b80</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mikulášský vlak</title>
+      <link>https://www.mestoborohradek.cz/clanky/mikulassky-vlak/</link>
+      <description>Mikulášský vlak</description>
+      <guid isPermaLink="false">8470a1ce5991cbd33de6cc668010934e15db1d198e2196daedb22d50e366f697</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soutěžní křížovka kolektivního systému Elektrowin</title>
+      <link>https://www.mestoborohradek.cz/clanky/soutezni-krizovka-kolektivniho-systemu-elektrowin/</link>
+      <description>Soutěžní křížovka kolektivního systému Elektrowin</description>
+      <guid isPermaLink="false">d32259f1336098c627e8edfcce2312a438f31e965a5bd03f7d8dd0d61dab43c9</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koncert skupiny Nezmaři</title>
+      <link>https://www.mestoborohradek.cz/clanky/koncert-skupiny-nezmari/</link>
+      <description>Koncert skupiny Nezmaři</description>
+      <guid isPermaLink="false">7c694b758c3a417c24f5ca80f3c6f567d2322599de901497c1df4c703abbc75e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní akce v závěru roku 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-akce-v-zaveru-roku-2024/</link>
+      <description>Kulturní akce v závěru roku 2024</description>
+      <guid isPermaLink="false">3d503613b9486d69430507476cd645d776b8d0ad0d702aaaff39cd9d8e78f8b2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provoz městského úřadu na konci roku 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/provoz-mestskeho-uradu-na-konci-roku-2024/</link>
+      <description>Provoz městského úřadu na konci roku 2024</description>
+      <guid isPermaLink="false">a9114823121b846462c1fec8f7978701008bec0dc5f536e5fada48fc0b3d09c0</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omezení provozu sběrného místa pro odkládání komunálního odpadu</title>
+      <link>https://www.mestoborohradek.cz/clanky/omezeni-provozu-sberneho-mista-pro-odkladani-komunalniho-odpadu/</link>
+      <description>Omezení provozu sběrného místa pro odkládání komunálního odpadu</description>
+      <guid isPermaLink="false">49cdd7ab480d7eb96ebc5fd5a3f1eda7ee961caa9cdb35670b96155e4a76b293</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tříkrálová sbírka 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/trikralova-sbirka-2025/</link>
+      <description>Tříkrálová sbírka 2025</description>
+      <guid isPermaLink="false">353cdd8a9668da45b044ab69cbb32f2600f54fcd651f1788c0757924bdb30d3d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upozornění na výskyt ptačí chřipky</title>
+      <link>https://www.mestoborohradek.cz/clanky/upozorneni-na-vyskyt-ptaci-chripky/</link>
+      <description>Upozornění na výskyt ptačí chřipky</description>
+      <guid isPermaLink="false">b210420addf871721a889ed032b64e0edeec4fa981ca7c80ae568c74ee4a81b3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka traťové koleje v úseku Týniště nad Orlicí – Choceň</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-tratove-koleje-v-useku-tyniste-nad-orlici-chocen/</link>
+      <description>Výluka traťové koleje v úseku Týniště nad Orlicí – Choceň</description>
+      <guid isPermaLink="false">3ef43b50a67f8b2afecc8cec46e1a9819d937b0bce82a95963879052beff319a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Myslivecký ples 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/myslivecky-ples-2025/</link>
+      <description>Myslivecký ples 2025</description>
+      <guid isPermaLink="false">ab31beb0f6b8c839e684cef673424b04b206ff82f6de624ca42e36ab58abe9d8</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>33. Mistrovství Klubu chovatelů králíků masných plemen</title>
+      <link>https://www.mestoborohradek.cz/clanky/33-mistrovstvi-klubu-chovatelu-kraliku-masnych-plemen/</link>
+      <description>33. Mistrovství Klubu chovatelů králíků masných plemen</description>
+      <guid isPermaLink="false">4bcfef1c3de0b77185b03edec1b8c58a187f8d1fc1d7919ff1cd6f19cc39ddf6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní nabídka z Rychnova nad Kněžnou</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-nabidka-z-rychnova-nad-kneznou/</link>
+      <description>Kulturní nabídka z Rychnova nad Kněžnou</description>
+      <guid isPermaLink="false">410de8173edcbe961240ec0e09db378d91a7bde79d258af7cf69f0e666363094</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cestopisná přednáška Británie - několik let objevů</title>
+      <link>https://www.mestoborohradek.cz/clanky/cestopisna-prednaska-britanie-nekolik-let-objevu/</link>
+      <description>Cestopisná přednáška Británie - několik let objevů</description>
+      <guid isPermaLink="false">e2177751a635aec4386b5778085f758f02d8de0807c21103550ff3f6c08ea0f1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace Finančního úřadu pro Královéhradecký kraj - Územní pracoviště v Rychnově n.Kn.</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-financniho-uradu-pro-kralovehradecky-kraj-uzemni-pracoviste-v-rychnove-n-kn/</link>
+      <description>Informace Finančního úřadu pro Královéhradecký kraj - Územní pracoviště v Rychnově n.Kn.</description>
+      <guid isPermaLink="false">e20e49197e8d19951dd7ac8860436c232db2494dd4b276a62f049294e32d78b4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Termín pro vybírání daňových přiznání daně z příjmů fyzických osob na MěÚ v Borohrádku</title>
+      <link>https://www.mestoborohradek.cz/clanky/termin-pro-vybirani-danovych-priznani-dane-z-prijmu-fyzickych-osob-na-meu-v-borohradku/</link>
+      <description>Termín pro vybírání daňových přiznání daně z příjmů fyzických osob na MěÚ v Borohrádku</description>
+      <guid isPermaLink="false">d41509fed727035ab2e7df75f175cddc3b2202d3932c656f190b1e781f90a934</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Úplná uzavírka silnice II/305 v úseku Albrechtice nad Orlicí - Týniště nad Orlicí</title>
+      <link>https://www.mestoborohradek.cz/clanky/uplna-uzavirka-silnice-ii-305-v-useku-albrechtice-nad-orlici-tyniste-nad-orlici/</link>
+      <description>Úplná uzavírka silnice II/305 v úseku Albrechtice nad Orlicí - Týniště nad Orlicí</description>
+      <guid isPermaLink="false">f768c0566f9201428d5548b2e4000417c0405df7c40b599f1d1fa41ea1fb6ca3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Certifikát Asekol za rok 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/certifikat-asekol-za-rok-2024/</link>
+      <description>Certifikát Asekol za rok 2024</description>
+      <guid isPermaLink="false">2b4cdbea29f926447149fffbbd9e7f7b968cf4fbb075d198ab20d828c07dc57d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Osvědčení Elektrowin za rok 2024</title>
+      <link>https://www.mestoborohradek.cz/clanky/osvedceni-elektrowin-za-rok-2024/</link>
+      <description>Osvědčení Elektrowin za rok 2024</description>
+      <guid isPermaLink="false">0cd66ab8b82f314db4599049360d44379c71f5345602a6b76120ad9c2b627318</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Povinně zveřejňované informace o odpadovém hospodářství</title>
+      <link>https://www.mestoborohradek.cz/clanky/povinne-zverejnovane-informace-o-odpadovem-hospodarstvi/</link>
+      <description>Povinně zveřejňované informace o odpadovém hospodářství</description>
+      <guid isPermaLink="false">32ccd0c07c370dd068579ac82ebd0d42a912a4fff8107ff107435887d7cf24ce</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nařízení a změnová nařízení Státní veterinární správy</title>
+      <link>https://www.mestoborohradek.cz/clanky/narizeni-a-zmenova-narizeni-statni-veterinarni-spravy/</link>
+      <description>Nařízení a změnová nařízení Státní veterinární správy</description>
+      <guid isPermaLink="false">044c65a241a119937a9354e8e55d65fd97c4dd925ed178f657db0cc97cdcc239</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AQUA SERVIS a.s. informuje občany</title>
+      <link>https://www.mestoborohradek.cz/clanky/aqua-servis-a-s-informuje-obcany/</link>
+      <description>AQUA SERVIS a.s. informuje občany</description>
+      <guid isPermaLink="false">e74323e4d7ec910f2b39fdcebe7cbe662bce209e753ebfe090ae33e4d7f67a0d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nařízení Státní veterinární správy</title>
+      <link>https://www.mestoborohradek.cz/clanky/narizeni-statni-veterinarni-spravy/</link>
+      <description>Nařízení Státní veterinární správy</description>
+      <guid isPermaLink="false">1d9fa0dd07a5f037a59ed038fc6ed7a126e666414bca8b336aa6eff3e241c508</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nařízení Státní veterinární správy - změny</title>
+      <link>https://www.mestoborohradek.cz/clanky/narizeni-statni-veterinarni-spravy-zmeny/</link>
+      <description>Nařízení Státní veterinární správy - změny</description>
+      <guid isPermaLink="false">f8ac64e7d42aec2f14b5dcb7293c8481f4ad6267163e66c1879995fd13d38408</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nezapomeňme - 80. let od konce války</title>
+      <link>https://www.mestoborohradek.cz/clanky/nezapomenme-80-let-od-konce-valky/</link>
+      <description>Nezapomeňme - 80. let od konce války</description>
+      <guid isPermaLink="false">1822a2cc91b12ef0e69b5da003321622d3ed0117fbab99514c9d3a7e9530db1c</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koncert ke dni matek</title>
+      <link>https://www.mestoborohradek.cz/clanky/koncert-ke-dni-matek/</link>
+      <description>Koncert ke dni matek</description>
+      <guid isPermaLink="false">f3b31974aeb94aaac0d76bf57adbb55ab0ccfad98c3f620221c96ddb6f1a3555</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výletní vláček</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyletni-vlacek/</link>
+      <description>Výletní vláček</description>
+      <guid isPermaLink="false">504387abee60167f653f07023595a599dda75e9aba2d7d6dd6cb1b94bef9ac18</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opravy silnice I/36 od 13. do 18. května 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/opravy-silnice-i-36-od-13-do-18-kvetna-2025/</link>
+      <description>Opravy silnice I/36 od 13. do 18. května 2025</description>
+      <guid isPermaLink="false">4ed120888cb569e82832b35a8e3a13a3aeb5f26f04da596b3dade8f365d86e66</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paměť národa - květnový program</title>
+      <link>https://www.mestoborohradek.cz/clanky/pamet-naroda-kvetnovy-program/</link>
+      <description>Paměť národa - květnový program</description>
+      <guid isPermaLink="false">546af9cd8339e98ae08de6a7c85c773484840c75db2f6823c63fb73e8029a50b</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miroslav Donutil - Na kus řeči</title>
+      <link>https://www.mestoborohradek.cz/clanky/miroslav-donutil-na-kus-reci/</link>
+      <description>Miroslav Donutil - Na kus řeči</description>
+      <guid isPermaLink="false">072f965085bcb49963ad9447bc893e68bd641177794cf719c1695ed745d7c24e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dětský den a májové odpoledne 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/detsky-den-a-majove-odpoledne-2025/</link>
+      <description>Dětský den a májové odpoledne 2025</description>
+      <guid isPermaLink="false">460e140a89f588f35395fa194c0034349324c5f070c0f7cef90766ab6e3a75a3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změna Nařízení Státní veterinární správy</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmena-narizeni-statni-veterinarni-spravy/</link>
+      <description>Změna Nařízení Státní veterinární správy</description>
+      <guid isPermaLink="false">c8e9f99bb92561108b97ed08046a3846987a47cfe6091b9b9d60276aeee8a5f4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noc kostelů</title>
+      <link>https://www.mestoborohradek.cz/clanky/noc-kostelu/</link>
+      <description>Noc kostelů</description>
+      <guid isPermaLink="false">62109d552ff7d6c6aa5e4e246037b523f698322809bf644e38ac436ddcba34b0</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozor na ptačí chřipku</title>
+      <link>https://www.mestoborohradek.cz/clanky/pozor-na-ptaci-chripku/</link>
+      <description>Pozor na ptačí chřipku</description>
+      <guid isPermaLink="false">b6a4c0299f232854698e39b0ccd59c25da98556ab787f892a3b8f0f1ff90588c</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 let Elektrowinu – recyklujeme pro budoucnost!</title>
+      <link>https://www.mestoborohradek.cz/clanky/20-let-elektrowinu-recyklujeme-pro-budoucnost/</link>
+      <description>20 let Elektrowinu – recyklujeme pro budoucnost!</description>
+      <guid isPermaLink="false">558c3718790727b38b3d9f08742c1390fd37d645f8661fb946df6b86964b410d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alzheimerova choroba - poradna</title>
+      <link>https://www.mestoborohradek.cz/clanky/alzheimerova-choroba-poradna/</link>
+      <description>Alzheimerova choroba - poradna</description>
+      <guid isPermaLink="false">357f697f516292a5b7dc238c1f93a66247f31e4cfb4d4a1cc9d14d632c0d9651</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace MV k podzimním volbám</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-mv-k-podzimnim-volbam/</link>
+      <description>Informace MV k podzimním volbám</description>
+      <guid isPermaLink="false">c8b37de636a7a7b992a2894ea03d7c34b19ca5ade886bb51ee31b3314c796cb4</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informace MV k cestování v nadcházející turistické sezóně</title>
+      <link>https://www.mestoborohradek.cz/clanky/informace-mv-k-cestovani-v-nadchazejici-turisticke-sezone/</link>
+      <description>Informace MV k cestování v nadcházející turistické sezóně</description>
+      <guid isPermaLink="false">a4d0655c283eccdb80a8fcaf64488d278aa609e1048dc4bca0dd393b7a760963</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka traťové koleje v úseku Týniště nad Orlicí – Choceň ve dnech 17. až 19. června 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-tratove-koleje-v-useku-tyniste-nad-orlici-chocen-ve-dnech-17-az-19-cervna-2025/</link>
+      <description>Výluka traťové koleje v úseku Týniště nad Orlicí – Choceň ve dnech 17. až 19. června 2025</description>
+      <guid isPermaLink="false">56c86b7be2ce6a823460d1c7c53642c9f81c3084510612c9912fb8392497ea88</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukončení mimořádných veterinárních opatření v souvislosti s výskytem SLAK</title>
+      <link>https://www.mestoborohradek.cz/clanky/ukonceni-mimoradnych-veterinarnich-opatreni-v-souvislosti-s-vyskytem-slak/</link>
+      <description>Ukončení mimořádných veterinárních opatření v souvislosti s výskytem SLAK</description>
+      <guid isPermaLink="false">0fc17d6b46fe875d2269ed0f02abda89a2d78ba8f0bdc52e8ba9b0b7f2a7364e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>150 let trati Choceň - Meziměstí - Broumov</title>
+      <link>https://www.mestoborohradek.cz/clanky/150-let-trati-chocen-mezimesti-broumov/</link>
+      <description>150 let trati Choceň - Meziměstí - Broumov</description>
+      <guid isPermaLink="false">f1114d0d4b68593d3c1b54fc999ef05699f39aabd909c4dabedb35f2cd7528bf</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mažoretky LABETY zvou děvčata do svých řad</title>
+      <link>https://www.mestoborohradek.cz/clanky/mazoretky-labety-zvou-devcata-do-svych-rad/</link>
+      <description>Mažoretky LABETY zvou děvčata do svých řad</description>
+      <guid isPermaLink="false">ca989d25ad711f3f08530eb41e541c116f1468d7e848cd1cd632fb4b7c4fbed9</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prevence požárů v přírodním prostředí</title>
+      <link>https://www.mestoborohradek.cz/clanky/prevence-pozaru-v-prirodnim-prostredi/</link>
+      <description>Prevence požárů v přírodním prostředí</description>
+      <guid isPermaLink="false">edb3e41eb60a5c34d510e676b16eb80af0f7ab0d0e2e708688f3859472761a68</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Osvědčení o úspoře emisí</title>
+      <link>https://www.mestoborohradek.cz/clanky/osvedceni-o-uspore-emisi/</link>
+      <description>Osvědčení o úspoře emisí</description>
+      <guid isPermaLink="false">00e7f139ede0aaf9cfaa74ae963d5e7132ca275479d2b26451427a6b0c47b726</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Návrh železničního jízdního řádu pro rok 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/navrh-zeleznicniho-jizdniho-radu-pro-rok-2026/</link>
+      <description>Návrh železničního jízdního řádu pro rok 2026</description>
+      <guid isPermaLink="false">df26ac9d7b31ff65580aa61a82f8f6f48b83b10bc2e386b5b9d0fd09b4ded2ac</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oznámení záměru města prodat movitý majetek</title>
+      <link>https://www.mestoborohradek.cz/clanky/oznameni-zameru-mesta-prodat-movity-majetek/</link>
+      <description>Oznámení záměru města prodat movitý majetek</description>
+      <guid isPermaLink="false">bbbf899af1a33f14a2f4a276cce308241c68c753c971d0f8b54ff2e15e5961d6</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oznámení záměru města prodat požární automobilový žebřík</title>
+      <link>https://www.mestoborohradek.cz/clanky/oznameni-zameru-mesta-prodat-pozarni-automobilovy-zebrik/</link>
+      <description>Oznámení záměru města prodat požární automobilový žebřík</description>
+      <guid isPermaLink="false">2db42570f2724c903571ace4938543b67d5e439b09d793fdf8129be320e70466</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změna provozní doby pro veřejnost - pobočka České pošty Borohrádek</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmena-provozni-doby-pro-verejnost-pobocka-ceske-posty-borohradek/</link>
+      <description>Změna provozní doby pro veřejnost - pobočka České pošty Borohrádek</description>
+      <guid isPermaLink="false">8f7a8300f5b9c6a7a3bb712ff1b0f553ee380bc15d786cfd61a85869091b858e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka na trati v úseku Hradec Králové hl.n. - Týniště nad Orlicí ve dnech 25. - 28.7.2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-na-trati-v-useku-hradec-kralove-hl-n-tyniste-nad-orlici-ve-dnech-25-28-7-2025/</link>
+      <description>Výluka na trati v úseku Hradec Králové hl.n. - Týniště nad Orlicí ve dnech 25. - 28.7.2025</description>
+      <guid isPermaLink="false">5aca3b356d0499a481c440f47260b72c0831f673f0c31a7cb33a3820f3c44ddf</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Přerušení dodávky vody 31.07.2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/preruseni-dodavky-vody-31-07-2025/</link>
+      <description>Přerušení dodávky vody 31.07.2025</description>
+      <guid isPermaLink="false">34425bd5a566c77fe6b61cec01cbee5533db251bc985bb12b7cde0947ae64ce1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Podvodníci nelení</title>
+      <link>https://www.mestoborohradek.cz/clanky/podvodnici-neleni/</link>
+      <description>Podvodníci nelení</description>
+      <guid isPermaLink="false">662b2d4b2640ed287394692d8d362da3197fc7c36b5f6afdbc784f99f1637097</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavírka silnice III/3055</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavirka-silnice-iii-3055/</link>
+      <description>Uzavírka silnice III/3055</description>
+      <guid isPermaLink="false">3575451e20bb922152c77d02195dd3328c83501f21fd7a0a189eb4f61738a057</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nález psa</title>
+      <link>https://www.mestoborohradek.cz/clanky/nalez-psa/</link>
+      <description>Nález psa</description>
+      <guid isPermaLink="false">8b6432de3f9b58c867ad06271fe4aeaf7788efd0121e03a6f69235331315c27e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mezinárodní cyklistický závod Czech Tour</title>
+      <link>https://www.mestoborohradek.cz/clanky/mezinarodni-cyklisticky-zavod-czech-tour/</link>
+      <description>Mezinárodní cyklistický závod Czech Tour</description>
+      <guid isPermaLink="false">d5b1d4d0f674c718a662b3fda9d23f4eff317fea9f7a3ddc5fc060c3ae104441</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borohrátky 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/borohratky-2025/</link>
+      <description>Borohrátky 2025</description>
+      <guid isPermaLink="false">11255ebada61f105113a38d9e500fd5e2365a3aad2682f4ef69d17ad6919fb7b</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka v úseku Borohrádek-Choceň</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-v-useku-borohradek-chocen/</link>
+      <description>Výluka v úseku Borohrádek-Choceň</description>
+      <guid isPermaLink="false">bde0cf1785f18e9c496864713967ba2b9e601969c809b7d9c949e5a9580a6c46</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promítání pod hvězdami</title>
+      <link>https://www.mestoborohradek.cz/clanky/promitani-pod-hvezdami/</link>
+      <description>Promítání pod hvězdami</description>
+      <guid isPermaLink="false">5917b91f1aa9ff47dfdfcf27ff40c36f35541f815d20372f3ba35ebc31ed342e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voličský průkaz pro volby do Poslanecké sněmovny. Jak a do kdy si zažádat</title>
+      <link>https://www.mestoborohradek.cz/clanky/volicsky-prukaz-pro-volby-do-poslanecke-snemovny-jak-a-do-kdy-si-zazadat/</link>
+      <description>Voličský průkaz pro volby do Poslanecké sněmovny. Jak a do kdy si zažádat</description>
+      <guid isPermaLink="false">0b0306091f6de13d00c99e89dc1d6cf4b3535843d1930ab904b810a6c7acec49</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Žádost o hlasování do přenosné volební schránky při volbách do Poslanecké sněmovny</title>
+      <link>https://www.mestoborohradek.cz/clanky/zadost-o-hlasovani-do-prenosne-volebni-schranky-pri-volbach-do-poslanecke-snemovny/</link>
+      <description>Žádost o hlasování do přenosné volební schránky při volbách do Poslanecké sněmovny</description>
+      <guid isPermaLink="false">673803571e2f500192e8606213d4ff02f9c1c9f1b03a3a708eb0a2dff4291a6a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domácí zdravotní péče – profesionálně a zdarma - Oblastní charita Pardubice</title>
+      <link>https://www.mestoborohradek.cz/clanky/domaci-zdravotni-pece-profesionalne-a-zdarma-oblastni-charita-pardubice/</link>
+      <description>Domácí zdravotní péče – profesionálně a zdarma - Oblastní charita Pardubice</description>
+      <guid isPermaLink="false">a4f495f5928eae3ca25be3dd931475465ca809002d55dfceb96f4366db50446f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seperdávka - vícesložková dávka státní sociální pomoci</title>
+      <link>https://www.mestoborohradek.cz/clanky/seperdavka-viceslozkova-davka-statni-socialni-pomoci/</link>
+      <description>Seperdávka - vícesložková dávka státní sociální pomoci</description>
+      <guid isPermaLink="false">e8f2413856a3830fa6c6331f8fe839c74ef9958704caf1a1eca267b3733d0e67</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>3x 30 dnů pro mokřady</title>
+      <link>https://www.mestoborohradek.cz/clanky/3x-30-dnu-pro-mokrady/</link>
+      <description>3x 30 dnů pro mokřady</description>
+      <guid isPermaLink="false">e3cb54088d94f6d9775932df9960f40bc6c38c3797622e9b5974f093e50e1109</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bílá pastelka: Pomozte nevidomým během sbírkových dnů 13.–15. října 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/bila-pastelka-pomozte-nevidomym-behem-sbirkovych-dnu-13-15-rijna-2025/</link>
+      <description>Bílá pastelka: Pomozte nevidomým během sbírkových dnů 13.–15. října 2025</description>
+      <guid isPermaLink="false">ed20d87fb36c61a146ac5e8db59c2c8bcd413256c1c3c0c77de5c00ae699e311</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>MICHALSKÉ POSVÍCENÍ</title>
+      <link>https://www.mestoborohradek.cz/clanky/michalske-posviceni/</link>
+      <description>MICHALSKÉ POSVÍCENÍ</description>
+      <guid isPermaLink="false">5edcc4b3872be4ff1abc195249fea0f04fe93080648ed924dc91c22bade22550</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Týden vzdělávání dospělých v Královéhradeckém kraji</title>
+      <link>https://www.mestoborohradek.cz/clanky/tyden-vzdelavani-dospelych-v-kralovehradeckem-kraji/</link>
+      <description>Týden vzdělávání dospělých v Královéhradeckém kraji</description>
+      <guid isPermaLink="false">bd03a1ed38cfdac2cd54eda0e1162ecdb1882ad14f7f7c5cc8b2c15460df9021</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nabídka - Organické hnojivo - ODEKO</title>
+      <link>https://www.mestoborohradek.cz/clanky/nabidka-organicke-hnojivo-odeko/</link>
+      <description>Nabídka - Organické hnojivo - ODEKO</description>
+      <guid isPermaLink="false">7a0858c2b47a463362dc797a45c1a103570f0a79ef5d050e257a1785be5b0f3f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>PČR Varuje: Kyberlumpové loví oběti: nepodlehněte nátlaku</title>
+      <link>https://www.mestoborohradek.cz/clanky/pcr-varuje-kyberlumpove-lovi-obeti-nepodlehnete-natlaku/</link>
+      <description>PČR Varuje: Kyberlumpové loví oběti: nepodlehněte nátlaku</description>
+      <guid isPermaLink="false">75ffb26299bc4238a02d3357e9c1ce1caa83056071e8e281695c8a8060bd22ed</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>SZÚ - Jak se chránit proti hepatitidě A?</title>
+      <link>https://www.mestoborohradek.cz/clanky/szu-jak-se-chranit-proti-hepatitide-a/</link>
+      <description>SZÚ - Jak se chránit proti hepatitidě A?</description>
+      <guid isPermaLink="false">430d3e614e992e43bf6dac5e7f7e4197a325a8c0cc625ad08b3481ae981f47bb</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní program 2025 - 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-program-2025-2026/</link>
+      <description>Kulturní program 2025 - 2026</description>
+      <guid isPermaLink="false">46dcde5fff59ed19cb494bf041393fdb66de4c74bf8b022e6d065fb94991fee2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vánoce pro zvířátka</title>
+      <link>https://www.mestoborohradek.cz/clanky/vanoce-pro-zviratka/</link>
+      <description>Vánoce pro zvířátka</description>
+      <guid isPermaLink="false">ef3b7c9f23c15531853617eb05e5d7f3ee9cc3661db98e7c356533fd64c6a17e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oznámení o vyhlášení revize katastru nemovitostí</title>
+      <link>https://www.mestoborohradek.cz/clanky/oznameni-o-vyhlaseni-revize-katastru-nemovitosti/</link>
+      <description>Oznámení o vyhlášení revize katastru nemovitostí</description>
+      <guid isPermaLink="false">b87f1555054bd29737340e370ca29e42295dfd09a5c79795fd2e946c3b05d458</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omezení provozu sběrného dvora v závěru roku 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/omezeni-provozu-sberneho-dvora-v-zaveru-roku-2025/</link>
+      <description>Omezení provozu sběrného dvora v závěru roku 2025</description>
+      <guid isPermaLink="false">b49d845e2aaa022b6b656074c19a7b6b91224b22edd0ff8ea461236e14248d0d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provoz MěÚ Borohrádek v závěru roku 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/provoz-meu-borohradek-v-zaveru-roku-2025/</link>
+      <description>Provoz MěÚ Borohrádek v závěru roku 2025</description>
+      <guid isPermaLink="false">e44dd884fbec46e31e31d511bace024c4043960182db0caccd737a9a25f0c737</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kalendář svozu komunálního odpadu na rok 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/kalendar-svozu-komunalniho-odpadu-na-rok-2026/</link>
+      <description>Kalendář svozu komunálního odpadu na rok 2026</description>
+      <guid isPermaLink="false">fc374f2dc637f68536b8eb92c33d0e0429fe8617b4be4e35c7851c2798fbe1c3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kultura v Rychnově nad Kněžnou v roce 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/kultura-v-rychnove-nad-kneznou-v-roce-2026/</link>
+      <description>Kultura v Rychnově nad Kněžnou v roce 2026</description>
+      <guid isPermaLink="false">089ece78fba1157ad7602f899bec113527c31fb2830f976f02af45083b13bc99</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novoroční koncert - Vzpomínka na Karla Gotta a českou písničku - Rychnov nad Kněžnou</title>
+      <link>https://www.mestoborohradek.cz/clanky/novorocni-koncert-vzpominka-na-karla-gotta-a-ceskou-pisnicku-rychnov-nad-kneznou/</link>
+      <description>Novoroční koncert - Vzpomínka na Karla Gotta a českou písničku - Rychnov nad Kněžnou</description>
+      <guid isPermaLink="false">efdc42146b45f18086301fb8cafdab6c1bb710c154a8aabfa4ef9e2cf9d1c5af</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozvánka na silvestrovský pochod a ohňostroj</title>
+      <link>https://www.mestoborohradek.cz/clanky/pozvanka-na-silvestrovsky-pochod-a-ohnostroj/</link>
+      <description>Pozvánka na silvestrovský pochod a ohňostroj</description>
+      <guid isPermaLink="false">8a249999bc43af7da5fee58ab020a65821c6e034f8280344c37a35a2545a5636</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dočasný občanský průkaz</title>
+      <link>https://www.mestoborohradek.cz/clanky/docasny-obcansky-prukaz/</link>
+      <description>Dočasný občanský průkaz</description>
+      <guid isPermaLink="false">20fedd3a2ae1099a818772558448acbfafde6587602320c778f24ad82c200375</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kluziště za sokolovnou otevřené! Bruslení pro veřejnost!</title>
+      <link>https://www.mestoborohradek.cz/clanky/kluziste-za-sokolovnou-otevrene-brusleni-pro-verejnost/</link>
+      <description>Kluziště za sokolovnou otevřené! Bruslení pro veřejnost!</description>
+      <guid isPermaLink="false">6e8afb4cef733ab9db6911c8eb40308b0e59a535c9aa3592d80549f55dca6f12</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluky v úseku Borohrádek - Choceň ve dnech 26.01.-30.01.;02.02.- 06.02.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluky-v-useku-borohradek-chocen-ve-dnech-26-01-30-01-02-02-06-02-2026/</link>
+      <description>Výluky v úseku Borohrádek - Choceň ve dnech 26.01.-30.01.;02.02.- 06.02.2026</description>
+      <guid isPermaLink="false">32383cc4efe7560f1415a5800af15008dde856d0d8c7725c808d8d89df436ab1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak správně třídit odpady!</title>
+      <link>https://www.mestoborohradek.cz/clanky/jak-spravne-tridit-odpady/</link>
+      <description>Jak správně třídit odpady!</description>
+      <guid isPermaLink="false">c3f90427ff5e4e0b06674b15144f8d84244b298ba3438f274a340167757c5a8f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak podat přiznání online?</title>
+      <link>https://www.mestoborohradek.cz/clanky/jak-podat-priznani-online/</link>
+      <description>Jak podat přiznání online?</description>
+      <guid isPermaLink="false">1f61d451908a7d6a6d51bbaf9077ee7a31b6b1704bd97c029eb6e138611b1eca</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Změny výlukového jízdního řádu od 01.03.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/zmeny-vylukoveho-jizdniho-radu-od-01-03-2026/</link>
+      <description>Změny výlukového jízdního řádu od 01.03.2026</description>
+      <guid isPermaLink="false">455cbfdc535a765dc9daa61a7862524c9b68beef99a69964e8c6387d4ef12fbc</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ČD - Výluka v úseku Týniště nad Orlicí - Choceň ve dnech 28.02. - 22.03.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/cd-vyluka-v-useku-tyniste-nad-orlici-chocen-ve-dnech-28-02-22-03-2026/</link>
+      <description>ČD - Výluka v úseku Týniště nad Orlicí - Choceň ve dnech 28.02. - 22.03.2026</description>
+      <guid isPermaLink="false">9a7f85fd8c38c399e92e945962ef8e273b898fcc233c30e3549d35d33c7a63e2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čištění řek v Přírodním parku Orlice</title>
+      <link>https://www.mestoborohradek.cz/clanky/cisteni-rek-v-prirodnim-parku-orlice/</link>
+      <description>Čištění řek v Přírodním parku Orlice</description>
+      <guid isPermaLink="false">fa9dc96bb40e9cd0e2b21969d42465580894bc00d542174a9407203dc1a85fb2</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výjezd zaměstnanců FÚ - Pomoc s vyplněním a podáním daňových přiznání - připomenutí</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyjezd-zamestnancu-fu-pomoc-s-vyplnenim-a-podanim-danovych-priznani-pripomenuti/</link>
+      <description>Výjezd zaměstnanců FÚ - Pomoc s vyplněním a podáním daňových přiznání - připomenutí</description>
+      <guid isPermaLink="false">2908d921fb55283264e4ef7c161b95796ed911bb81b8c975a30cef18b4a7c77c</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borohrádku byl udělen - Stříbrný certifikát Ekologická obec</title>
+      <link>https://www.mestoborohradek.cz/clanky/borohradku-byl-udelen-stribrny-certifikat-ekologicka-obec/</link>
+      <description>Borohrádku byl udělen - Stříbrný certifikát Ekologická obec</description>
+      <guid isPermaLink="false">db20e69384b1c5e44d62bbc553c4f7788b4edf7f01cdff29d9842718afba65d1</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oznámení záměru města prodat movitý majetek a výzva k podávání nabídek IV.</title>
+      <link>https://www.mestoborohradek.cz/clanky/oznameni-zameru-mesta-prodat-movity-majetek-a-vyzva-k-podavani-nabidek-iv/</link>
+      <description>Oznámení záměru města prodat movitý majetek a výzva k podávání nabídek IV.</description>
+      <guid isPermaLink="false">41201fd05cc2f5f50f847d8d940a55cd2f16343916876476630c83b04cb75fbe</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Z důvodu opravy silnice III/3051 na Vysokém Chvojně bude tato silnice uzavřena</title>
+      <link>https://www.mestoborohradek.cz/clanky/z-duvodu-opravy-silnice-iii-3051-na-vysokem-chvojne-bude-tato-silnice-uzavrena/</link>
+      <description>Z důvodu opravy silnice III/3051 na Vysokém Chvojně bude tato silnice uzavřena</description>
+      <guid isPermaLink="false">5978e5e57340f3df6bd86b026d8827846da7e547ab8a528ceaa459a954d2eda7</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Městu Borohrádek byl udělen - CERTIFIKÁT UDRŽITELNÉ OBCE</title>
+      <link>https://www.mestoborohradek.cz/clanky/mestu-borohradek-byl-udelen-certifikat-udrzitelne-obce/</link>
+      <description>Městu Borohrádek byl udělen - CERTIFIKÁT UDRŽITELNÉ OBCE</description>
+      <guid isPermaLink="false">f6378421839914206ec47adcc3ad04c77d07f1ec60cc4086e5292323e315a2de</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Výluka tratě v úseku Choceň – Týniště nad Orlicí a opačně - 3.4.-6.4.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/vyluka-trate-v-useku-chocen-tyniste-nad-orlici-a-opacne-3-4-6-4-2026/</link>
+      <description>Výluka tratě v úseku Choceň – Týniště nad Orlicí a opačně - 3.4.-6.4.2026</description>
+      <guid isPermaLink="false">00464239c977c69f57688a11a14683bdbe54d86ffe87f15cacefedfa0f7dfa2e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření pošty v Borohrádku - 1.4.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-posty-v-borohradku-1-4-2026/</link>
+      <description>Uzavření pošty v Borohrádku - 1.4.2026</description>
+      <guid isPermaLink="false">0587899048ac31c05c3ee1ea91b57e24a5a3f33ee784f125b7836f25ff8792fb</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní nabídka - Rychnov nad Kněžnou v měsíci dubnu</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-nabidka-rychnov-nad-kneznou-v-mesici-dubnu/</link>
+      <description>Kulturní nabídka - Rychnov nad Kněžnou v měsíci dubnu</description>
+      <guid isPermaLink="false">6523491435c74d2895da32a6b1d9a0d452e47534ee01cc4e196321f6b6b9a959</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koncert - Karel Svoboda - Ještě světu šanci dej</title>
+      <link>https://www.mestoborohradek.cz/clanky/koncert-karel-svoboda-jeste-svetu-sanci-dej/</link>
+      <description>Koncert - Karel Svoboda - Ještě světu šanci dej (Datum konání: 29.09.2026)</description>
+      <guid isPermaLink="false">ec5cb88e4adb60c6374d80f869b95910c6c4fed97bcd2b4fbd7685e6ac9da915</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Povinně zveřejňované informace o odpadovém hospodářství 2025</title>
+      <link>https://www.mestoborohradek.cz/clanky/povinne-zverejnovane-informace-o-odpadovem-hospodarstvi-2025/</link>
+      <description>Povinně zveřejňované informace o odpadovém hospodářství 2025</description>
+      <guid isPermaLink="false">3b3873eb778194025bc383dec7dfee85488bb6cbd18b5872c81595f974b1160a</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galerie moderního umění v Hradci Králové - pozvánka</title>
+      <link>https://www.mestoborohradek.cz/clanky/galerie-moderniho-umeni-v-hradci-kralove-pozvanka/</link>
+      <description>Galerie moderního umění v Hradci Králové - pozvánka (Datum konání: 24.04.2026 - 01.11.2026)</description>
+      <guid isPermaLink="false">bb2c32d32fca7a7657955699160aea8e74022fc9302b37bf3def9133de883872</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uzavření úřadu 11.06.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/uzavreni-uradu-11-06-2026/</link>
+      <description>Uzavření úřadu 11.06.2026</description>
+      <guid isPermaLink="false">14a3615fbd73609ed9be44c43860e9ef52c471e1075360127616e618f1facc5b</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Připomínky k návrhu jízdních řádů pro rok 2027</title>
+      <link>https://www.mestoborohradek.cz/clanky/pripominky-k-navrhu-jizdnich-radu-pro-rok-2027/</link>
+      <description>Připomínky k návrhu jízdních řádů pro rok 2027</description>
+      <guid isPermaLink="false">822c92d8c10f9000d80b83134c5119f6e63ac06daacdaae7c0f9fce4fd7fe97f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volná kapacita - Ambulantní odlehčovací služby - Červánky v Holicích</title>
+      <link>https://www.mestoborohradek.cz/clanky/volna-kapacita-ambulantni-odlehcovaci-sluzby-cervanky-v-holicich/</link>
+      <description>Volná kapacita - Ambulantní odlehčovací služby - Červánky v Holicích</description>
+      <guid isPermaLink="false">7b843a1d05b1d731493aa0d7230900df08791a1d1fb9172a41d77576002a6dee</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nabídka kominických prací</title>
+      <link>https://www.mestoborohradek.cz/clanky/nabidka-kominickych-praci/</link>
+      <description>Nabídka kominických prací</description>
+      <guid isPermaLink="false">ea90bf0db1ff6ca22e9fba906dae5f5d51507f4371be52288b43f898c1af3404</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borohrátky 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/borohratky-2026/</link>
+      <description>Borohrátky 2026 (Datum konání: 29.08.2026 15:00)</description>
+      <guid isPermaLink="false">457036d9585e41f8d242d036891caa97c2f9b101d1a49a876fe8c76dae4132fa</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozvánka na letní kino</title>
+      <link>https://www.mestoborohradek.cz/clanky/pozvanka-na-letni-kino/</link>
+      <description>Pozvánka na letní kino (Datum konání: 31.08.2026 20:00 - 03.09.2026 00:00)</description>
+      <guid isPermaLink="false">9d5e642e5c79799a4911d2a83ba088d006c488bc2fa6610cd75eae949981182f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPOZORNĚNÍ na odstávku elektřiny 3.9.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/upozorneni-na-odstavku-elektriny-3-9-2026/</link>
+      <description>UPOZORNĚNÍ na odstávku elektřiny 3.9.2026</description>
+      <guid isPermaLink="false">7fe1730f050e61575dcc1996144432a16b3cb9be3144934e40701f0b40a13e7e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:11:59 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
