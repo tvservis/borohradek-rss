@@ -124,21 +124,24 @@ def parse_events(html: str, page_url: str):
         title = title.replace("\xa0", " ")
 
         date_text = None
+        published_text = None
         for meta_item in item.find_all(class_="strankaVypisClankuSFiltr_metaItem"):
             label_el = meta_item.find(class_="strankaVypisClankuSFiltr_metaLabel")
             if not label_el:
                 continue
-            if "Termín konání" in label_el.get_text():
-                strong_el = meta_item.find("strong")
-                if strong_el:
-                    date_text = strong_el.get_text(strip=True)
-                break
+            label = label_el.get_text()
+            strong_el = meta_item.find("strong")
+            if "Termín konání" in label and strong_el:
+                date_text = strong_el.get_text(strip=True)
+            elif "Publikov" in label and strong_el:
+                published_text = strong_el.get_text(strip=True)
 
         events.append(
             {
                 "title": title,
                 "url": full_url,
                 "date_text": date_text,
+                "published_text": published_text,
             }
         )
 
@@ -186,6 +189,22 @@ def parse_event_end_date(date_text: str):
     return max(dates)
 
 
+def parse_single_date(date_text: str):
+    """Rozparsuje první nalezené datum v textu (bez ohledu na rozsah)."""
+    if not date_text:
+        return None
+    matches = _DATE_RE.findall(date_text)
+    if not matches:
+        return None
+    day, month, year, hour, minute = matches[0]
+    h = int(hour) if hour else 12
+    m = int(minute) if minute else 0
+    try:
+        return datetime(int(year), int(month), int(day), h, m, tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
 def is_upcoming(event: dict, today: datetime) -> bool:
     """Akce se považuje za nadcházející, pokud její konec není v minulosti."""
     end_date = parse_event_end_date(event.get("date_text"))
@@ -213,7 +232,14 @@ def build_feed(events: list) -> FeedGenerator:
         if event["date_text"]:
             description += f" (Datum konání: {event['date_text']})"
         fe.description(description)
-        fe.pubDate(datetime.now(timezone.utc))
+
+        # Stabilní datum: použije se skutečné datum "Publikováno" z webu
+        # (nemění se mezi jednotlivými běhy skriptu). Teprve když se ho
+        # nepodaří rozpoznat, použije se aktuální čas jako záloha.
+        pub_date = parse_single_date(event.get("published_text"))
+        if pub_date is None:
+            pub_date = datetime.now(timezone.utc)
+        fe.pubDate(pub_date)
 
     return fg
 
