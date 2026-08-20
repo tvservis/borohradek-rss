@@ -17,6 +17,7 @@ parse_events() podle aktuálního HTML (klávesa F12 v prohlížeči na
 stránce s akcemi).
 """
 
+import re
 import sys
 import hashlib
 from datetime import datetime, timezone
@@ -31,7 +32,7 @@ from feedgen.feed import FeedGenerator
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://www.mestoborohradek.cz"
-EVENTS_URL = f"{BASE_URL}/zivot-ve-meste/aktuality-a-hlaseni/aktuality-z-mesta/"
+EVENTS_URL = f"{BASE_URL}/clanky/"
 OUTPUT_FILE = "docs/rss.xml"
 
 # Veřejná URL, na které bude feed nakonec dostupný (GitHub Pages).
@@ -149,6 +150,51 @@ def make_guid(event: dict) -> str:
     return hashlib.sha256(event["url"].encode("utf-8")).hexdigest()
 
 
+# Vzor pro nalezení datumů ve formátu DD.MM.YYYY, volitelně s časem HH:MM.
+# Termín konání může být buď jedno datum ("17.10.2025"), datum s časem
+# ("29.08.2026 15:00"), nebo rozsah ("31.08.2026 20:00 - 03.09.2026 00:00").
+_DATE_RE = re.compile(r"(\d{2})\.(\d{2})\.(\d{4})(?:\s+(\d{2}):(\d{2}))?")
+
+
+def parse_event_end_date(date_text: str):
+    """
+    Vrátí datum, kdy akce nejpozději končí (pro určení, jestli už proběhla).
+    Pokud text neobsahuje rozpoznatelné datum, vrátí None (akce se pak
+    z bezpečnostních důvodů NEfiltruje pryč, aby se neztratily akce
+    s neobvyklým formátem data).
+    """
+    if not date_text:
+        return None
+
+    matches = _DATE_RE.findall(date_text)
+    if not matches:
+        return None
+
+    dates = []
+    for day, month, year, hour, minute in matches:
+        h = int(hour) if hour else 23
+        m = int(minute) if minute else 59
+        try:
+            dates.append(datetime(int(year), int(month), int(day), h, m))
+        except ValueError:
+            continue
+
+    if not dates:
+        return None
+
+    # Pokud je v textu víc dat (rozsah), zajímá nás to poslední (konec akce).
+    return max(dates)
+
+
+def is_upcoming(event: dict, today: datetime) -> bool:
+    """Akce se považuje za nadcházející, pokud její konec není v minulosti."""
+    end_date = parse_event_end_date(event.get("date_text"))
+    if end_date is None:
+        # Neznámý formát data - raději akci ponechat, než ji ztratit.
+        return True
+    return end_date >= today
+
+
 def build_feed(events: list) -> FeedGenerator:
     fg = FeedGenerator()
     fg.id(FEED_PUBLIC_URL)
@@ -172,6 +218,18 @@ def build_feed(events: list) -> FeedGenerator:
     return fg
 
 
+def get_upcoming_events():
+    """
+    Stáhne stránku a vrátí seznam nadcházejících akcí. Používá se jak
+    z main() tady, tak z post_to_facebook.py (aby obě části sdílely
+    stejnou logiku stahování/parsování/filtrování).
+    """
+    html = fetch_html(EVENTS_URL)
+    events = parse_events(html, EVENTS_URL)
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    return [e for e in events if is_upcoming(e, today)]
+
+
 def main():
     try:
         html = fetch_html(EVENTS_URL)
@@ -181,16 +239,21 @@ def main():
 
     events = parse_events(html, EVENTS_URL)
 
+    total_found = len(events)
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    events = [e for e in events if is_upcoming(e, today)]
+
     if not events:
         print(
-            "Nenalezeny žádné akce - zkontroluj strukturu stránky "
-            "a uprav funkci parse_events().",
+            f"Nalezeno {total_found} akcí na stránce, ale žádná není "
+            "nadcházející (nebo se nepodařilo rozpoznat strukturu) - "
+            "zkontroluj parse_events().",
             file=sys.stderr,
         )
         # Neukončujeme chybou, aby předchozí platný rss.xml zůstal zachovaný.
         sys.exit(0)
 
-    print(f"Nalezeno {len(events)} akcí.")
+    print(f"Nalezeno {total_found} akcí na stránce, z toho {len(events)} nadcházejících.")
     for e in events:
         print(f" - {e['title']} | {e['date_text']} | {e['url']}")
 
