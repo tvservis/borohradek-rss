@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:08:38 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1513,6 +1513,20 @@
       <description>Borohrátky 2026 (Datum konání: 29.08.2026 15:00)</description>
       <guid isPermaLink="false">457036d9585e41f8d242d036891caa97c2f9b101d1a49a876fe8c76dae4132fa</guid>
       <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Etape Czech Republic projede Borohrádkem</title>
+      <link>https://www.mestoborohradek.cz/clanky/l-etape-czech-republic-projede-borohradkem/</link>
+      <description>L’Etape Czech Republic projede Borohrádkem</description>
+      <guid isPermaLink="false">a859049e91008a3ced515e050ded76bfdc3e1d0c9a4591315c185f1ac0da988b</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Česká pošta: Dočasná změna hodin pro veřejnost provozovny Borohrádek</title>
+      <link>https://www.mestoborohradek.cz/clanky/ceska-posta-docasna-zmena-hodin-pro-verejnost-provozovny-borohradek/</link>
+      <description>Česká pošta: Dočasná změna hodin pro veřejnost provozovny Borohrádek</description>
+      <guid isPermaLink="false">a134079bc9fb99d1f42b169d0e60deb407c5ad6191bdab2e41c76a85b2332264</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
