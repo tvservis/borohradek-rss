@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:19:28 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1534,6 +1534,13 @@
       <description>Česká pošta: Dočasná změna hodin pro veřejnost provozovny Borohrádek</description>
       <guid isPermaLink="false">a134079bc9fb99d1f42b169d0e60deb407c5ad6191bdab2e41c76a85b2332264</guid>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mažoretky Labety Vás rádi přivítají do týmu</title>
+      <link>https://www.mestoborohradek.cz/clanky/mazoretky-labety-vas-radi-privitaji-do-tymu/</link>
+      <description>Mažoretky Labety Vás rádi přivítají do týmu</description>
+      <guid isPermaLink="false">5b9285dfc0d235de6003e03e986a975242c0df87ad924edb138d78a0561ba4b4</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
