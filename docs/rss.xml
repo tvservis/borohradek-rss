@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:39:28 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1534,6 +1534,20 @@
       <description>Dopravní omezení - cyklistický závod 12. září 2026 (Datum konání: 12.09.2026)</description>
       <guid isPermaLink="false">74843bdc3ce8b7e9cfc425e2212e8f3a1f8ec1e0d5f143e4b2f121d28b718b23</guid>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dotazník o hospodaření s vodou</title>
+      <link>https://www.mestoborohradek.cz/clanky/dotaznik-o-hospodareni-s-vodou/</link>
+      <description>Dotazník o hospodaření s vodou</description>
+      <guid isPermaLink="false">ec0fd64580ecb686df8cce7d78b55f15e63e989fbcced07043358ad29926aae4</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPOZORNĚNÍ na odstávku elektřiny</title>
+      <link>https://www.mestoborohradek.cz/clanky/upozorneni-na-odstavku-elektriny/</link>
+      <description>UPOZORNĚNÍ na odstávku elektřiny (Datum konání: 03.09.2026 07:30 - 12:30)</description>
+      <guid isPermaLink="false">3650d24eed687616a0bb8e78ac3ef6133c2a4cc4d6d95b9ddc918d0d9111b960</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
