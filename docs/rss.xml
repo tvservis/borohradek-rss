@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:19:11 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1541,6 +1541,20 @@
       <description>Informace o uzavírce silnic v pardubicích a v okresech pardubice a rychnov nad kněžnou dne 3. 10. 2026 (Datum konání: 03.10.2026)</description>
       <guid isPermaLink="false">3d1b1c82d36ec9266a398d02c8ae1be56c6fa2ba1a40997542a3364d1720a5b4</guid>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pochod 2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/pochod-2026/</link>
+      <description>Pochod 2026 (Datum konání: 19.09.2026 08:30 - 13:30)</description>
+      <guid isPermaLink="false">d3305624956d9bac8b1b02fbb95f715d7c7ef3546f095053b4d9134c6a41cafc</guid>
+      <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konec platnosti občanských průkazů vydaných do 30.06.2000</title>
+      <link>https://www.mestoborohradek.cz/clanky/konec-platnosti-obcanskych-prukazu-vydanych-do-30-06-2000/</link>
+      <description>Konec platnosti občanských průkazů vydaných do 30.06.2000</description>
+      <guid isPermaLink="false">df5aecee2f09b943684eca6a036d973dd0fd27651267922d1ac10f087bc85e55</guid>
+      <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
