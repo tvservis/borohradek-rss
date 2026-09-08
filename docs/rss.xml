@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:41:30 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1555,6 +1555,13 @@
       <description>Konec platnosti občanských průkazů vydaných do 30.06.2000</description>
       <guid isPermaLink="false">df5aecee2f09b943684eca6a036d973dd0fd27651267922d1ac10f087bc85e55</guid>
       <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nový praktický lékař pro děti a dorost</title>
+      <link>https://www.mestoborohradek.cz/clanky/novy-prakticky-lekar-pro-deti-a-dorost/</link>
+      <description>Nový praktický lékař pro děti a dorost</description>
+      <guid isPermaLink="false">7c61318a860ac355361485c327e42c035153cddfc000b6ae4dd2e82465a62db6</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
