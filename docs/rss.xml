@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:00:35 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1548,6 +1548,20 @@
       <description>Hodnoty krajiny Královéhradeckého kraje – zapojte se do pocitové mapy</description>
       <guid isPermaLink="false">5c917767f6eda3054bb2bdee24a6a9801d29e79dfd0ee1623f1f2654c677592a</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Divadelní představení v městském kině - Dívčí válka - Ochotnický divadelní spolek Tyl Rychnov nad Kněžnou</title>
+      <link>https://www.mestoborohradek.cz/clanky/divadelni-predstaveni-v-mestskem-kine-divci-valka-ochotnicky-divadelni-spolek-tyl-rychnov-nad-kneznou/</link>
+      <description>Divadelní představení v městském kině - Dívčí válka - Ochotnický divadelní spolek Tyl Rychnov nad Kněžnou (Datum konání: 23.10.2026 18:00)</description>
+      <guid isPermaLink="false">c38ed605f4f5dde0d12b2d1c622cdadfb005a1a0e36d42a6b0a8301efebcc7c6</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dívka v oblacích - promítání filmu v městském kině bez vstupného</title>
+      <link>https://www.mestoborohradek.cz/clanky/divka-v-oblacich-promitani-filmu-v-mestskem-kine-bez-vstupneho/</link>
+      <description>Dívka v oblacích - promítání filmu v městském kině bez vstupného (Datum konání: 16.10.2026 16:00)</description>
+      <guid isPermaLink="false">ddec81e36ccd24c582eeef88a56a4a43996f42445bae7da4e9bdc4d7a41af263</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
