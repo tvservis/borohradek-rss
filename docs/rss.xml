@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:37:07 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1583,6 +1583,13 @@
       <description>Týden vzdělávání dospělých</description>
       <guid isPermaLink="false">5fb4a6f3938964114be227d825ca87507a089c5c34b34f0e639fec7aa05adf4c</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upozornění na přechodné úpravy provozu v rámci uzavření žel. přejezdů - 06.11-13.11.2026</title>
+      <link>https://www.mestoborohradek.cz/clanky/upozorneni-na-prechodne-upravy-provozu-v-ramci-uzavreni-zel-prejezdu-06-11-13-11-2026/</link>
+      <description>Upozornění na přechodné úpravy provozu v rámci uzavření žel. přejezdů - 06.11-13.11.2026</description>
+      <guid isPermaLink="false">7463b4820534b2992c3a066090f3107f9a93b71270a67f973e43e3bc4446a530</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
