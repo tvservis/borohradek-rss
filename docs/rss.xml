@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:53:31 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1569,6 +1569,13 @@
       <description>Upozornění na přechodné úpravy provozu v rámci uzavření žel. přejezdů - 06.11-13.11.2026</description>
       <guid isPermaLink="false">7463b4820534b2992c3a066090f3107f9a93b71270a67f973e43e3bc4446a530</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventní trhy a slavnostní rozsvícení vánočního stromu</title>
+      <link>https://www.mestoborohradek.cz/clanky/adventni-trhy-a-slavnostni-rozsviceni-vanocniho-stromu-3/</link>
+      <description>Adventní trhy a slavnostní rozsvícení vánočního stromu (Datum konání: 28.11.2026 14:00 - 18:00)</description>
+      <guid isPermaLink="false">a8117d947616d70dffa19f21e1bf42fc12bbe5e92dc6ad1b280432f06b7ba628</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
