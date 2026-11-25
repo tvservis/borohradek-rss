@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:28:14 +0000</lastBuildDate>
     <item>
       <title>V pokladně Městského úřadu Borohrádek můžete platit platební kartou</title>
       <link>https://www.mestoborohradek.cz/clanky/v-pokladne-mestskeho-uradu-borohradek-muzete-platit-platebni-kartou/</link>
@@ -1550,13 +1550,6 @@
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ZŠ T.G.M. zve na kurz pro předškoláky - Hrajeme si na školu</title>
-      <link>https://www.mestoborohradek.cz/clanky/zs-t-g-m-zve-na-kurz-pro-predskolaky-hrajeme-si-na-skolu/</link>
-      <description>ZŠ T.G.M. zve na kurz pro předškoláky - Hrajeme si na školu (Datum konání: 04.11.2026 16:00 - 07.01.2027 17:00)</description>
-      <guid isPermaLink="false">541bea0ea5b835e011d144a2b9b87a9a405b064ab47cf8a748e22d8b2ce03858</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Týden vzdělávání dospělých</title>
       <link>https://www.mestoborohradek.cz/clanky/tyden-vzdelavani-dospelych/</link>
       <description>Týden vzdělávání dospělých</description>
@@ -1632,6 +1625,34 @@
       <description>Chybí vám dokumentace k domu? Pasport stavby rychle a za rozumnou cenu.</description>
       <guid isPermaLink="false">1a27760d01f178cf7ad44a7b5f37899ce0c221a6917a791154e30c42123bd412</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linka bezpečí</title>
+      <link>https://www.mestoborohradek.cz/clanky/linka-bezpeci/</link>
+      <description>Linka bezpečí</description>
+      <guid isPermaLink="false">6ff70fc45bea1e45f47fc89293f75a2ed570f35e67a8b381a357e01809a9f881</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventní koncert v Šachově</title>
+      <link>https://www.mestoborohradek.cz/clanky/adventni-koncert-v-sachove/</link>
+      <description>Adventní koncert v Šachově (Datum konání: 12.12.2026 15:00)</description>
+      <guid isPermaLink="false">7fa0ca4ea4b86c00fb047d2ec1c05ec8528cde6ac1ccb50a9eba4681834b43b6</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventní koncert - Vojta Nedvěd</title>
+      <link>https://www.mestoborohradek.cz/clanky/adventni-koncert-vojta-nedved/</link>
+      <description>Adventní koncert - Vojta Nedvěd (Datum konání: 18.12.2026 18:00)</description>
+      <guid isPermaLink="false">a9d4cf8de8c9dce696a6dd70dc63a553dd55f8bf35e6526e52d56e81a28bfb93</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kulturní program - Zima 2026/2027</title>
+      <link>https://www.mestoborohradek.cz/clanky/kulturni-program-zima-2026-2027/</link>
+      <description>Kulturní program - Zima 2026/2027</description>
+      <guid isPermaLink="false">ec4f3baf9087ec696d52299da83e6b152a26032052e5dfabd79efa61c47ca68f</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
